@@ -33,6 +33,10 @@ function authenticateToken(req, res, next) {
     });
 }
 
+app.get('/', (req, res) => {
+  res.send('Hey this is my API running 🥳')
+})
+
 app.post('/api/login', (req, res) => {
     const { email, password } = req.body;
 
