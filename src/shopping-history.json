@@ -1,802 +1,802 @@
 [
   {
-    "shoppingId": "05cf257b-9134-4afc-9163-8a8e9efcdc75",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2023-01-18",
-    "shopName": "Top Outlet",
-    "totalShoppedItem": 6,
-    "totalShopping": "194.25"
-  },
-  {
-    "shoppingId": "ce515ed2-1ea5-4605-b966-f30362021eac",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2021-07-22",
-    "shopName": "Top Shop",
-    "totalShoppedItem": 5,
-    "totalShopping": "78.48"
-  },
-  {
-    "shoppingId": "a7a4a4a9-8966-43f2-b048-8bbc7e6d7220",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2023-06-07",
-    "shopName": "Top Bazaar",
-    "totalShoppedItem": 3,
-    "totalShopping": "138.80"
-  },
-  {
-    "shoppingId": "ae476046-4011-4c1e-9dc1-18ee1f65cc22",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2022-09-30",
-    "shopName": "Ultra Shop",
-    "totalShoppedItem": 5,
-    "totalShopping": "201.17"
-  },
-  {
-    "shoppingId": "75c5d2e7-6d37-4de0-88f4-f307fd20e104",
-    "shopperId": "02bea597-cdc3-471e-9890-d197d0a9acc9",
-    "shoppedDate": "2023-04-24",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 7,
-    "totalShopping": "248.18"
-  },
-  {
-    "shoppingId": "0e02ca45-94be-4a37-89f1-b3808672d421",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2021-05-29",
-    "shopName": "Supreme Mart",
+    "shoppingId": "68d7ed10-9d61-4dfe-80db-97943f50727b",
+    "shopperId": "07142f24-7f54-4172-b033-cace21b33cf2",
+    "shoppedDate": "2020-11-06",
+    "shopName": "Super Mart",
     "totalShoppedItem": 9,
-    "totalShopping": "88.24"
+    "totalShopping": "247.51"
   },
   {
-    "shoppingId": "3dda8124-6bdc-4e85-8d18-fb688a876d52",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2021-04-12",
+    "shoppingId": "2ed8050b-9de5-472b-8659-aabc94130d3f",
+    "shopperId": "12b2fce7-2b64-4393-ac4f-762d61272209",
+    "shoppedDate": "2023-01-04",
+    "shopName": "Top Emporium",
+    "totalShoppedItem": 6,
+    "totalShopping": "230.49"
+  },
+  {
+    "shoppingId": "3ee13e7b-c3d6-4dd2-9e49-19ae2f696493",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2021-04-15",
+    "shopName": "Elite Outlet",
+    "totalShoppedItem": 9,
+    "totalShopping": "123.42"
+  },
+  {
+    "shoppingId": "bbfc0fdf-115e-4bf3-a3f0-8461265a5b2a",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2021-06-08",
+    "shopName": "Super Shop",
+    "totalShoppedItem": 5,
+    "totalShopping": "83.37"
+  },
+  {
+    "shoppingId": "4234b240-21dd-4023-8a4f-a3cdddbf6673",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2021-11-19",
+    "shopName": "Mega Bazaar",
+    "totalShoppedItem": 3,
+    "totalShopping": "65.67"
+  },
+  {
+    "shoppingId": "dee079b3-a2be-4ad2-aeb2-23705a4205ea",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2022-10-06",
+    "shopName": "Prime Outlet",
+    "totalShoppedItem": 5,
+    "totalShopping": "176.56"
+  },
+  {
+    "shoppingId": "e0635c62-2173-41e6-9029-ebc92d92fc36",
+    "shopperId": "07142f24-7f54-4172-b033-cace21b33cf2",
+    "shoppedDate": "2023-01-07",
     "shopName": "Supreme Store",
-    "totalShoppedItem": 9,
-    "totalShopping": "199.68"
-  },
-  {
-    "shoppingId": "c995de96-7204-4d08-b3d2-0816ab9178e9",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2022-02-11",
-    "shopName": "Elite Emporium",
-    "totalShoppedItem": 3,
-    "totalShopping": "238.25"
-  },
-  {
-    "shoppingId": "f889460f-8b71-49d0-a083-a21175cf2226",
-    "shopperId": "f910224e-0b30-4205-a036-b6353df39e2d",
-    "shoppedDate": "2023-06-20",
-    "shopName": "Mega Outlet",
-    "totalShoppedItem": 6,
-    "totalShopping": "148.28"
-  },
-  {
-    "shoppingId": "967fad04-e343-486b-88e1-2858e974a96b",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2021-11-28",
-    "shopName": "Prime Mart",
-    "totalShoppedItem": 9,
-    "totalShopping": "221.99"
-  },
-  {
-    "shoppingId": "b1206a16-c20d-406e-b956-a4522959bbd9",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2022-03-18",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 3,
-    "totalShopping": "163.10"
-  },
-  {
-    "shoppingId": "8231f231-afb2-4c96-bbf4-76443ae154ff",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2020-08-14",
-    "shopName": "Best Emporium",
-    "totalShoppedItem": 5,
-    "totalShopping": "247.99"
-  },
-  {
-    "shoppingId": "2016e284-73f3-48ed-adad-ec03d36e6920",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2023-10-01",
-    "shopName": "Elite Emporium",
-    "totalShoppedItem": 5,
-    "totalShopping": "183.56"
-  },
-  {
-    "shoppingId": "203b7045-6b95-4388-9f09-fc5de37b4406",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2021-02-09",
-    "shopName": "Prime Shop",
-    "totalShoppedItem": 9,
-    "totalShopping": "90.02"
-  },
-  {
-    "shoppingId": "87737ede-f1d1-469a-81eb-c7945ba7e5c9",
-    "shopperId": "02bea597-cdc3-471e-9890-d197d0a9acc9",
-    "shoppedDate": "2021-12-14",
-    "shopName": "Prime Mart",
-    "totalShoppedItem": 4,
-    "totalShopping": "113.66"
-  },
-  {
-    "shoppingId": "650df0a9-5bf2-493c-a194-7f7846d886b0",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2020-07-06",
-    "shopName": "Supreme Bazaar",
-    "totalShoppedItem": 9,
-    "totalShopping": "117.87"
-  },
-  {
-    "shoppingId": "b998a28a-6d8f-463c-824b-876706816cd6",
-    "shopperId": "f910224e-0b30-4205-a036-b6353df39e2d",
-    "shoppedDate": "2020-05-20",
-    "shopName": "Mega Emporium",
     "totalShoppedItem": 8,
-    "totalShopping": "139.17"
+    "totalShopping": "157.38"
   },
   {
-    "shoppingId": "40f38456-877f-457a-bb53-57bb1d19ea76",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2020-07-04",
+    "shoppingId": "bed8cc77-b7aa-4a34-b030-54a241e763ec",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2020-02-09",
+    "shopName": "Prime Store",
+    "totalShoppedItem": 6,
+    "totalShopping": "129.27"
+  },
+  {
+    "shoppingId": "552c83e6-dd90-466f-abb9-dfb18e425eb5",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2020-06-03",
+    "shopName": "Elite Emporium",
+    "totalShoppedItem": 4,
+    "totalShopping": "207.70"
+  },
+  {
+    "shoppingId": "f901d986-d8e1-40d0-bbaf-ae24d5334a81",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2022-08-08",
+    "shopName": "Supreme Emporium",
+    "totalShoppedItem": 4,
+    "totalShopping": "249.74"
+  },
+  {
+    "shoppingId": "3a90b1b8-b569-4603-9541-c1dbbce50362",
+    "shopperId": "f67f90cf-1425-448e-8c7e-7a875a734fe9",
+    "shoppedDate": "2021-05-24",
+    "shopName": "Prime Bazaar",
+    "totalShoppedItem": 3,
+    "totalShopping": "86.17"
+  },
+  {
+    "shoppingId": "8f1bfe1b-6ac0-435f-8e8b-1b1f44f98a4c",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2023-04-15",
+    "shopName": "Elite Emporium",
+    "totalShoppedItem": 9,
+    "totalShopping": "56.91"
+  },
+  {
+    "shoppingId": "f2d97ef7-84d4-43a0-b607-5aadd05c79a5",
+    "shopperId": "f67f90cf-1425-448e-8c7e-7a875a734fe9",
+    "shoppedDate": "2021-10-25",
+    "shopName": "Ultra Emporium",
+    "totalShoppedItem": 8,
+    "totalShopping": "69.02"
+  },
+  {
+    "shoppingId": "ceba04f1-da6d-4eaf-b479-93c0ffc51d31",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2022-09-06",
+    "shopName": "Elite Shop",
+    "totalShoppedItem": 9,
+    "totalShopping": "213.30"
+  },
+  {
+    "shoppingId": "435db2d2-776f-4ff8-be85-a3ae6eebbccc",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2022-06-11",
+    "shopName": "Best Shop",
+    "totalShoppedItem": 8,
+    "totalShopping": "90.58"
+  },
+  {
+    "shoppingId": "ef51ac6e-9f7a-4c70-a5e6-3ecf74f2df7e",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2023-06-10",
+    "shopName": "Prime Bazaar",
+    "totalShoppedItem": 9,
+    "totalShopping": "75.51"
+  },
+  {
+    "shoppingId": "5afd67c0-b549-437b-9cff-a7a52632ce1a",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2022-10-05",
+    "shopName": "Prime Mart",
+    "totalShoppedItem": 5,
+    "totalShopping": "207.13"
+  },
+  {
+    "shoppingId": "40747196-7e8a-48cb-8c8f-8c827f654879",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2020-06-22",
     "shopName": "Best Store",
     "totalShoppedItem": 4,
-    "totalShopping": "199.07"
+    "totalShopping": "236.49"
   },
   {
-    "shoppingId": "2fc25b70-21e3-47a1-8466-feca0b70c010",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2022-03-31",
-    "shopName": "Prime Outlet",
-    "totalShoppedItem": 4,
-    "totalShopping": "218.84"
+    "shoppingId": "b7d1f99d-a8df-4630-b86a-eab2e7cf34e6",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2020-02-17",
+    "shopName": "Elite Store",
+    "totalShoppedItem": 8,
+    "totalShopping": "222.35"
   },
   {
-    "shoppingId": "b1896899-71bd-4f6a-b492-204b95108e4b",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2021-03-14",
-    "shopName": "Supreme Mart",
-    "totalShoppedItem": 3,
-    "totalShopping": "88.05"
-  },
-  {
-    "shoppingId": "ac4b0f4c-02a8-4dbc-a38d-f269083220f1",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2020-06-16",
+    "shoppingId": "33f49dea-49ed-411e-853c-59f41be10cc2",
+    "shopperId": "12b2fce7-2b64-4393-ac4f-762d61272209",
+    "shoppedDate": "2021-02-02",
     "shopName": "Elite Emporium",
-    "totalShoppedItem": 3,
-    "totalShopping": "172.54"
-  },
-  {
-    "shoppingId": "5179726d-58da-4c6d-a8e2-218cc9d65571",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2021-07-05",
-    "shopName": "Best Emporium",
     "totalShoppedItem": 4,
-    "totalShopping": "182.18"
+    "totalShopping": "154.11"
   },
   {
-    "shoppingId": "c6a24704-ff08-4489-b976-e38d4103dceb",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2020-01-10",
-    "shopName": "Mega Emporium",
+    "shoppingId": "8fdfe3b5-159a-4e1e-8f0f-f88ece84c213",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2020-01-07",
+    "shopName": "Supreme Bazaar",
+    "totalShoppedItem": 7,
+    "totalShopping": "52.47"
+  },
+  {
+    "shoppingId": "c460bd9b-39a3-4d75-b015-e2fadcf57537",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2021-08-14",
+    "shopName": "Mega Store",
     "totalShoppedItem": 5,
-    "totalShopping": "176.65"
+    "totalShopping": "128.27"
   },
   {
-    "shoppingId": "5f966992-0d48-4cc7-98af-2fb52f8e26da",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2022-06-05",
-    "shopName": "Supreme Shop",
-    "totalShoppedItem": 3,
-    "totalShopping": "135.29"
-  },
-  {
-    "shoppingId": "8910d0f2-c4ff-42cb-98f4-4df638947727",
-    "shopperId": "02bea597-cdc3-471e-9890-d197d0a9acc9",
-    "shoppedDate": "2020-07-30",
+    "shoppingId": "3d850be7-96db-424f-97fc-2af9a7f41e27",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2022-05-18",
     "shopName": "Best Bazaar",
-    "totalShoppedItem": 6,
-    "totalShopping": "92.02"
+    "totalShoppedItem": 3,
+    "totalShopping": "122.63"
   },
   {
-    "shoppingId": "e8ff2c70-a976-41b0-9695-1dec02509e04",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2020-03-21",
-    "shopName": "Mega Store",
-    "totalShoppedItem": 4,
-    "totalShopping": "100.87"
+    "shoppingId": "75df1b30-d94f-4394-9a3a-dced77c599d5",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2020-05-11",
+    "shopName": "Supreme Shop",
+    "totalShoppedItem": 7,
+    "totalShopping": "140.08"
   },
   {
-    "shoppingId": "f43ed0aa-4264-4d19-b09c-b972b62895b8",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2022-05-06",
-    "shopName": "Mega Store",
-    "totalShoppedItem": 5,
-    "totalShopping": "64.78"
-  },
-  {
-    "shoppingId": "103e5621-0dd2-4f5d-8de7-fe034f0b20b3",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2022-09-28",
+    "shoppingId": "1a220e65-f8f3-466c-a2a7-cf3096e27488",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2022-08-03",
     "shopName": "Top Emporium",
     "totalShoppedItem": 3,
-    "totalShopping": "65.81"
+    "totalShopping": "102.62"
   },
   {
-    "shoppingId": "5a37d9da-d3ed-4b50-aac9-9729cc81373a",
-    "shopperId": "95e4e8a6-63ff-44a4-8dc1-fcd58230e5a7",
-    "shoppedDate": "2022-06-25",
-    "shopName": "Elite Emporium",
-    "totalShoppedItem": 8,
-    "totalShopping": "185.52"
-  },
-  {
-    "shoppingId": "fea7efa7-e3b0-49a6-870e-0da6354ee6ba",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2020-05-15",
-    "shopName": "Prime Emporium",
-    "totalShoppedItem": 7,
-    "totalShopping": "244.81"
-  },
-  {
-    "shoppingId": "d566f0e9-618d-421f-9a8c-c08bcf7bd49c",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2023-05-24",
-    "shopName": "Prime Mart",
-    "totalShoppedItem": 6,
-    "totalShopping": "103.52"
-  },
-  {
-    "shoppingId": "4a97af29-f532-40e2-b59b-ef1207da2fde",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2021-05-09",
-    "shopName": "Elite Store",
-    "totalShoppedItem": 3,
-    "totalShopping": "185.03"
-  },
-  {
-    "shoppingId": "63b30249-4189-45f0-84aa-144a99eb6cea",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2021-07-23",
-    "shopName": "Supreme Emporium",
-    "totalShoppedItem": 6,
-    "totalShopping": "50.37"
-  },
-  {
-    "shoppingId": "8d93d674-8ab9-4916-a7be-00ec379c093d",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2021-03-21",
-    "shopName": "Elite Emporium",
-    "totalShoppedItem": 3,
-    "totalShopping": "194.55"
-  },
-  {
-    "shoppingId": "eb6a5ad3-8fe8-45fd-89c6-a55a6418675c",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2023-03-18",
-    "shopName": "Mega Emporium",
-    "totalShoppedItem": 6,
-    "totalShopping": "240.66"
-  },
-  {
-    "shoppingId": "f70a0fc7-3ab7-481d-8a60-d85f5b37a7a7",
-    "shopperId": "f910224e-0b30-4205-a036-b6353df39e2d",
-    "shoppedDate": "2021-06-23",
-    "shopName": "Mega Shop",
-    "totalShoppedItem": 3,
-    "totalShopping": "84.79"
-  },
-  {
-    "shoppingId": "9a0a221e-8e4e-4057-8c21-620087542ecf",
-    "shopperId": "95e4e8a6-63ff-44a4-8dc1-fcd58230e5a7",
-    "shoppedDate": "2021-03-30",
-    "shopName": "Top Bazaar",
-    "totalShoppedItem": 5,
-    "totalShopping": "217.28"
-  },
-  {
-    "shoppingId": "68ab7d71-f52e-4e11-a01a-a5af6fa2fba3",
-    "shopperId": "02bea597-cdc3-471e-9890-d197d0a9acc9",
-    "shoppedDate": "2020-01-14",
-    "shopName": "Prime Store",
-    "totalShoppedItem": 8,
-    "totalShopping": "71.15"
-  },
-  {
-    "shoppingId": "00edbb63-9c6d-4f22-9b0a-9be1f8e23e26",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2022-09-16",
-    "shopName": "Ultra Emporium",
-    "totalShoppedItem": 7,
-    "totalShopping": "82.31"
-  },
-  {
-    "shoppingId": "b96cdfeb-11b5-4e27-9dc6-e798d7b6cd88",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2023-05-19",
-    "shopName": "Prime Store",
-    "totalShoppedItem": 6,
-    "totalShopping": "54.71"
-  },
-  {
-    "shoppingId": "4b5b75b2-fdb4-4bc8-bb83-9554ceea8bf3",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2023-08-21",
-    "shopName": "Super Bazaar",
-    "totalShoppedItem": 4,
-    "totalShopping": "129.21"
-  },
-  {
-    "shoppingId": "0b168a39-d1fd-4efc-a57e-6e9d18b88cda",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2023-06-13",
+    "shoppingId": "69627178-0fd3-4655-b70a-6cbeaab3b5cf",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2022-11-24",
     "shopName": "Top Outlet",
-    "totalShoppedItem": 6,
-    "totalShopping": "140.78"
-  },
-  {
-    "shoppingId": "9510a315-8cd9-4ba2-a1ee-4ee53e60d59c",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2021-01-31",
-    "shopName": "Super Outlet",
-    "totalShoppedItem": 3,
-    "totalShopping": "77.80"
-  },
-  {
-    "shoppingId": "0c3a2c60-956f-4360-81a6-9fef425b7b03",
-    "shopperId": "02bea597-cdc3-471e-9890-d197d0a9acc9",
-    "shoppedDate": "2022-03-10",
-    "shopName": "Mega Bazaar",
     "totalShoppedItem": 4,
-    "totalShopping": "210.19"
+    "totalShopping": "210.09"
   },
   {
-    "shoppingId": "c5ebab22-3a07-48e3-ac14-c5fa24b7f61a",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2023-07-17",
-    "shopName": "Prime Shop",
-    "totalShoppedItem": 5,
-    "totalShopping": "99.50"
-  },
-  {
-    "shoppingId": "0f416acc-2d62-46a3-aed2-0efd34756457",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2022-09-05",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 4,
-    "totalShopping": "136.20"
-  },
-  {
-    "shoppingId": "ecdae63a-c0f7-4b4a-b2b3-f32de6a5f786",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2022-03-29",
-    "shopName": "Best Shop",
-    "totalShoppedItem": 4,
-    "totalShopping": "87.44"
-  },
-  {
-    "shoppingId": "820b7a92-801e-4cf9-b3e5-73dba4a8d03d",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2023-02-27",
-    "shopName": "Supreme Store",
-    "totalShoppedItem": 5,
-    "totalShopping": "183.04"
-  },
-  {
-    "shoppingId": "411921bd-0680-49ae-8335-703e7564c295",
-    "shopperId": "95e4e8a6-63ff-44a4-8dc1-fcd58230e5a7",
-    "shoppedDate": "2023-03-21",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 6,
-    "totalShopping": "99.74"
-  },
-  {
-    "shoppingId": "bb8974a5-1cf5-4d0f-8621-2def49c246ad",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2023-05-22",
-    "shopName": "Top Bazaar",
-    "totalShoppedItem": 7,
-    "totalShopping": "88.02"
-  },
-  {
-    "shoppingId": "3c67adfb-8cca-482e-9d69-a75752be1399",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2023-07-25",
-    "shopName": "Top Store",
-    "totalShoppedItem": 5,
-    "totalShopping": "72.40"
-  },
-  {
-    "shoppingId": "40c6d1ef-f0f7-418e-be45-06ddbf7905b3",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2021-04-25",
-    "shopName": "Best Shop",
-    "totalShoppedItem": 9,
-    "totalShopping": "123.41"
-  },
-  {
-    "shoppingId": "b7f088bc-544c-4842-a090-17c2fb38d944",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2022-09-03",
-    "shopName": "Supreme Shop",
-    "totalShoppedItem": 9,
-    "totalShopping": "69.54"
-  },
-  {
-    "shoppingId": "da0816e7-4530-4c8f-81e5-ae1487030725",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2021-11-22",
-    "shopName": "Elite Shop",
-    "totalShoppedItem": 4,
-    "totalShopping": "249.54"
-  },
-  {
-    "shoppingId": "b8bda647-2823-402f-96e2-5b5f368a3720",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2020-09-08",
-    "shopName": "Ultra Emporium",
-    "totalShoppedItem": 8,
-    "totalShopping": "223.24"
-  },
-  {
-    "shoppingId": "6ad88750-df74-4a43-9c00-2ae1f452df0a",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2020-12-16",
-    "shopName": "Best Store",
-    "totalShoppedItem": 6,
-    "totalShopping": "56.76"
-  },
-  {
-    "shoppingId": "4e10c71f-423d-45bc-acdd-0d68e2ecbd5c",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2020-11-10",
-    "shopName": "Super Bazaar",
-    "totalShoppedItem": 8,
-    "totalShopping": "220.47"
-  },
-  {
-    "shoppingId": "d9f877e3-083b-4d18-90ab-d2832f11a8c8",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2021-05-26",
-    "shopName": "Prime Shop",
-    "totalShoppedItem": 8,
-    "totalShopping": "157.07"
-  },
-  {
-    "shoppingId": "9eaa9ac6-aedd-4511-819b-f71e115e1f66",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2020-08-30",
-    "shopName": "Top Store",
-    "totalShoppedItem": 6,
-    "totalShopping": "150.92"
-  },
-  {
-    "shoppingId": "2457ad8c-c6aa-4810-8cde-106b96463335",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2021-11-12",
-    "shopName": "Top Mart",
-    "totalShoppedItem": 8,
-    "totalShopping": "186.76"
-  },
-  {
-    "shoppingId": "4ddb0f8e-9d1c-47fe-a7ac-0693cfa95f7c",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2020-03-21",
-    "shopName": "Mega Mart",
-    "totalShoppedItem": 8,
-    "totalShopping": "99.04"
-  },
-  {
-    "shoppingId": "7f122fc5-251f-4177-ba40-c2a07efe1777",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2020-11-24",
-    "shopName": "Mega Outlet",
-    "totalShoppedItem": 7,
-    "totalShopping": "105.75"
-  },
-  {
-    "shoppingId": "09c45c17-7306-48f9-89e8-6cd038badd16",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2023-03-24",
-    "shopName": "Supreme Mart",
-    "totalShoppedItem": 7,
-    "totalShopping": "217.37"
-  },
-  {
-    "shoppingId": "5e2b3e16-b35e-4c72-9038-78d818e154a6",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2023-01-30",
-    "shopName": "Super Outlet",
-    "totalShoppedItem": 7,
-    "totalShopping": "56.14"
-  },
-  {
-    "shoppingId": "0311aae7-e619-404c-ba45-0693fe9755f8",
-    "shopperId": "02bea597-cdc3-471e-9890-d197d0a9acc9",
-    "shoppedDate": "2020-07-20",
-    "shopName": "Mega Outlet",
-    "totalShoppedItem": 9,
-    "totalShopping": "69.85"
-  },
-  {
-    "shoppingId": "acce384d-989b-488c-a743-ff46e8cfd248",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2022-09-22",
-    "shopName": "Elite Shop",
-    "totalShoppedItem": 9,
-    "totalShopping": "96.31"
-  },
-  {
-    "shoppingId": "6d0da0be-491e-4725-b423-0ba9381d6341",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2022-01-03",
-    "shopName": "Prime Shop",
-    "totalShoppedItem": 3,
-    "totalShopping": "214.78"
-  },
-  {
-    "shoppingId": "eaca56c0-069f-4beb-bd2c-b83d825bb235",
-    "shopperId": "02bea597-cdc3-471e-9890-d197d0a9acc9",
-    "shoppedDate": "2020-05-18",
-    "shopName": "Best Bazaar",
-    "totalShoppedItem": 3,
-    "totalShopping": "135.56"
-  },
-  {
-    "shoppingId": "ab32173e-6d40-4868-9743-aff4abf3dfaa",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2020-12-21",
-    "shopName": "Super Bazaar",
-    "totalShoppedItem": 4,
-    "totalShopping": "125.89"
-  },
-  {
-    "shoppingId": "0af60cfc-0fa3-444f-ac4b-9848bdaaf791",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2023-06-04",
-    "shopName": "Best Outlet",
-    "totalShoppedItem": 5,
-    "totalShopping": "77.69"
-  },
-  {
-    "shoppingId": "b317f1bd-ea3a-4470-8ca7-ecd140be4765",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2022-04-02",
-    "shopName": "Elite Bazaar",
-    "totalShoppedItem": 8,
-    "totalShopping": "215.35"
-  },
-  {
-    "shoppingId": "8febff78-9c61-4215-8786-8afb98b7ceae",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2020-04-21",
-    "shopName": "Ultra Shop",
-    "totalShoppedItem": 5,
-    "totalShopping": "183.03"
-  },
-  {
-    "shoppingId": "a07ff788-0f98-421b-ab53-7a49fee74635",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2022-07-18",
-    "shopName": "Best Outlet",
-    "totalShoppedItem": 7,
-    "totalShopping": "192.79"
-  },
-  {
-    "shoppingId": "bcedd969-6fb1-4cf5-b484-c1a3ebaeb5e5",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2023-05-05",
-    "shopName": "Prime Outlet",
-    "totalShoppedItem": 9,
-    "totalShopping": "175.64"
-  },
-  {
-    "shoppingId": "4659b6e6-4973-4510-bdb8-0a968d3180e3",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2020-05-01",
-    "shopName": "Prime Emporium",
-    "totalShoppedItem": 3,
-    "totalShopping": "162.86"
-  },
-  {
-    "shoppingId": "8deff1dd-55d8-4924-b383-5ee11dd510ed",
-    "shopperId": "02bea597-cdc3-471e-9890-d197d0a9acc9",
-    "shoppedDate": "2020-12-30",
-    "shopName": "Ultra Store",
-    "totalShoppedItem": 4,
-    "totalShopping": "151.21"
-  },
-  {
-    "shoppingId": "6fbfdc26-b2a8-4e47-8653-9156203ae7ed",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2020-12-27",
-    "shopName": "Prime Mart",
-    "totalShoppedItem": 9,
-    "totalShopping": "136.95"
-  },
-  {
-    "shoppingId": "99b1a760-3326-42f0-8cf3-1cea29f3f6a3",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2023-01-08",
-    "shopName": "Supreme Shop",
-    "totalShoppedItem": 4,
-    "totalShopping": "56.12"
-  },
-  {
-    "shoppingId": "e84d3771-0b88-42fc-978c-6bfa519f8785",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2022-05-17",
-    "shopName": "Top Mart",
-    "totalShoppedItem": 4,
-    "totalShopping": "188.85"
-  },
-  {
-    "shoppingId": "21734253-df91-4cd2-8401-2d55062dfc51",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2023-09-30",
-    "shopName": "Prime Store",
-    "totalShoppedItem": 6,
-    "totalShopping": "140.79"
-  },
-  {
-    "shoppingId": "8775d755-48c4-4c5f-b1be-48f44dd1e8eb",
-    "shopperId": "f910224e-0b30-4205-a036-b6353df39e2d",
-    "shoppedDate": "2020-08-09",
-    "shopName": "Best Emporium",
-    "totalShoppedItem": 8,
-    "totalShopping": "59.94"
-  },
-  {
-    "shoppingId": "28365b35-ee4b-4b76-acad-0544cd259e61",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2021-10-04",
-    "shopName": "Best Shop",
-    "totalShoppedItem": 4,
-    "totalShopping": "199.12"
-  },
-  {
-    "shoppingId": "0c96e6b9-f86e-4e4c-ad11-053567397843",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2021-03-15",
-    "shopName": "Mega Emporium",
-    "totalShoppedItem": 5,
-    "totalShopping": "72.26"
-  },
-  {
-    "shoppingId": "70af115b-42b5-49c6-a8cc-1ab21580790a",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2022-12-10",
-    "shopName": "Elite Outlet",
-    "totalShoppedItem": 4,
-    "totalShopping": "169.28"
-  },
-  {
-    "shoppingId": "4a75854d-820e-403e-9875-44a3fd1a0406",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2022-04-20",
-    "shopName": "Top Bazaar",
-    "totalShoppedItem": 6,
-    "totalShopping": "125.46"
-  },
-  {
-    "shoppingId": "7b0ccada-32d2-49c8-88c1-e6a6f65f06be",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2020-07-20",
+    "shoppingId": "cfa11714-54d2-40c3-b44e-bdcce081de6c",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2022-06-13",
     "shopName": "Ultra Outlet",
     "totalShoppedItem": 7,
-    "totalShopping": "137.07"
+    "totalShopping": "155.59"
   },
   {
-    "shoppingId": "c71d3c60-6701-4021-8e4e-96d8b0ce61a6",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2022-06-09",
-    "shopName": "Ultra Shop",
+    "shoppingId": "2ecf7470-07d6-45aa-8f12-baac540c1a06",
+    "shopperId": "f67f90cf-1425-448e-8c7e-7a875a734fe9",
+    "shoppedDate": "2023-02-23",
+    "shopName": "Ultra Bazaar",
+    "totalShoppedItem": 3,
+    "totalShopping": "119.18"
+  },
+  {
+    "shoppingId": "58b96cb4-6df7-4b5e-b6e0-fb97f34bcb4e",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2021-05-07",
+    "shopName": "Super Emporium",
+    "totalShoppedItem": 7,
+    "totalShopping": "141.48"
+  },
+  {
+    "shoppingId": "8319bd8c-7698-46f9-ba3f-a5cc20d2a327",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2022-10-15",
+    "shopName": "Elite Outlet",
+    "totalShoppedItem": 3,
+    "totalShopping": "130.99"
+  },
+  {
+    "shoppingId": "d64f3e90-e9d1-41a0-b020-8e2c95545ba2",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2023-10-16",
+    "shopName": "Top Mart",
+    "totalShoppedItem": 4,
+    "totalShopping": "156.38"
+  },
+  {
+    "shoppingId": "c817ed40-52f7-46fe-95a8-5b44094060a0",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2023-08-02",
+    "shopName": "Top Emporium",
     "totalShoppedItem": 8,
-    "totalShopping": "130.80"
+    "totalShopping": "73.51"
   },
   {
-    "shoppingId": "3ca3b8b2-c102-4896-a1e1-abb44c7ad1cd",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2021-05-11",
+    "shoppingId": "146abe2b-45dd-4058-b27f-e3b7fda93718",
+    "shopperId": "07142f24-7f54-4172-b033-cace21b33cf2",
+    "shoppedDate": "2021-01-27",
+    "shopName": "Elite Shop",
+    "totalShoppedItem": 5,
+    "totalShopping": "225.35"
+  },
+  {
+    "shoppingId": "bec11e2d-b635-42ee-b953-5f9706f607a6",
+    "shopperId": "80a74820-5f19-4054-932e-86e7ad48add7",
+    "shoppedDate": "2020-07-24",
+    "shopName": "Prime Mart",
+    "totalShoppedItem": 3,
+    "totalShopping": "232.36"
+  },
+  {
+    "shoppingId": "03e00bf3-a748-463e-8493-a1933c924a18",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2021-09-10",
+    "shopName": "Ultra Shop",
+    "totalShoppedItem": 5,
+    "totalShopping": "234.60"
+  },
+  {
+    "shoppingId": "841f829b-48f7-491b-ba55-744699d34275",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2023-10-18",
+    "shopName": "Prime Mart",
+    "totalShoppedItem": 7,
+    "totalShopping": "72.10"
+  },
+  {
+    "shoppingId": "05d6ae33-bf19-4a26-ad4c-620aeef921c6",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2020-06-12",
+    "shopName": "Supreme Emporium",
+    "totalShoppedItem": 3,
+    "totalShopping": "126.47"
+  },
+  {
+    "shoppingId": "3e3e33cb-9fbc-45f4-af30-8e95f776a779",
+    "shopperId": "f67f90cf-1425-448e-8c7e-7a875a734fe9",
+    "shoppedDate": "2022-06-18",
+    "shopName": "Supreme Mart",
+    "totalShoppedItem": 8,
+    "totalShopping": "235.24"
+  },
+  {
+    "shoppingId": "58685a76-caa9-4de7-b331-8466ba469fc5",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2021-09-19",
+    "shopName": "Prime Outlet",
+    "totalShoppedItem": 3,
+    "totalShopping": "239.57"
+  },
+  {
+    "shoppingId": "9ed04736-ee21-48b2-a955-285539c8370c",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2022-07-12",
+    "shopName": "Best Emporium",
+    "totalShoppedItem": 7,
+    "totalShopping": "78.62"
+  },
+  {
+    "shoppingId": "768dfcb7-e9b1-4f4e-b481-7da1889257b9",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2021-08-13",
+    "shopName": "Ultra Store",
+    "totalShoppedItem": 8,
+    "totalShopping": "64.25"
+  },
+  {
+    "shoppingId": "4aa50957-e5ec-47c4-86ee-986b4210f6f9",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2021-12-05",
+    "shopName": "Mega Store",
+    "totalShoppedItem": 7,
+    "totalShopping": "115.28"
+  },
+  {
+    "shoppingId": "54755fc0-4bc7-446c-bf9c-8919b9cd177c",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2021-07-27",
+    "shopName": "Mega Bazaar",
+    "totalShoppedItem": 6,
+    "totalShopping": "144.83"
+  },
+  {
+    "shoppingId": "799a4512-349f-4bfd-a22d-5db923343639",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2022-04-21",
+    "shopName": "Super Store",
+    "totalShoppedItem": 5,
+    "totalShopping": "221.63"
+  },
+  {
+    "shoppingId": "1bd379eb-e6b6-4b0c-9fe4-dd6003a3bd6a",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2020-04-25",
+    "shopName": "Super Emporium",
+    "totalShoppedItem": 8,
+    "totalShopping": "153.51"
+  },
+  {
+    "shoppingId": "945c6d38-2f57-4870-8507-2536d94319af",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2023-07-30",
+    "shopName": "Supreme Shop",
+    "totalShoppedItem": 7,
+    "totalShopping": "163.05"
+  },
+  {
+    "shoppingId": "f4301eeb-6ecc-4a15-80ba-53143a20b68e",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2020-01-25",
+    "shopName": "Mega Mart",
+    "totalShoppedItem": 6,
+    "totalShopping": "133.88"
+  },
+  {
+    "shoppingId": "6d750b48-1d8e-456f-9669-3a8c5a983c67",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2023-09-02",
+    "shopName": "Best Store",
+    "totalShoppedItem": 5,
+    "totalShopping": "178.32"
+  },
+  {
+    "shoppingId": "400a0728-14a4-4614-b73a-ace7db4311f5",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2020-11-13",
+    "shopName": "Best Bazaar",
+    "totalShoppedItem": 7,
+    "totalShopping": "93.33"
+  },
+  {
+    "shoppingId": "114cfc6e-ed7a-4b3f-8a88-9a46acf2078f",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2022-05-06",
+    "shopName": "Best Outlet",
+    "totalShoppedItem": 9,
+    "totalShopping": "90.48"
+  },
+  {
+    "shoppingId": "d61ba095-05bc-4268-95e0-ff5c01abaa1d",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2023-02-01",
     "shopName": "Supreme Shop",
     "totalShoppedItem": 5,
-    "totalShopping": "167.88"
+    "totalShopping": "130.85"
   },
   {
-    "shoppingId": "779cd9f9-1fb1-4361-b057-042448fa8fdb",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2020-12-14",
-    "shopName": "Super Bazaar",
+    "shoppingId": "bef79c5b-9dd5-47c2-b2bf-3ecfad314f16",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2020-04-17",
+    "shopName": "Top Bazaar",
     "totalShoppedItem": 8,
-    "totalShopping": "248.86"
+    "totalShopping": "210.27"
   },
   {
-    "shoppingId": "02fdf793-f4d0-4273-85c5-e40abf37c71b",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2022-10-29",
-    "shopName": "Prime Shop",
-    "totalShoppedItem": 3,
-    "totalShopping": "188.19"
-  },
-  {
-    "shoppingId": "950ecf4d-1c44-4e72-90dc-6ad066e465a8",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2022-09-07",
-    "shopName": "Elite Store",
-    "totalShoppedItem": 7,
-    "totalShopping": "133.08"
-  },
-  {
-    "shoppingId": "07fea543-23e8-41f7-8518-e0923c5f87a1",
-    "shopperId": "16f851d2-1ce0-4065-af58-cee5536abd32",
-    "shoppedDate": "2020-07-15",
-    "shopName": "Prime Outlet",
-    "totalShoppedItem": 7,
-    "totalShopping": "172.30"
-  },
-  {
-    "shoppingId": "1667bd3a-51df-459e-bd29-a795177e56b4",
-    "shopperId": "3649b461-4494-46c0-932e-355a74be626a",
-    "shoppedDate": "2020-10-07",
-    "shopName": "Prime Emporium",
-    "totalShoppedItem": 5,
-    "totalShopping": "93.95"
-  },
-  {
-    "shoppingId": "e2e02e42-280b-4fc3-a6c4-15e157a8f9a3",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2023-07-05",
-    "shopName": "Top Shop",
-    "totalShoppedItem": 4,
-    "totalShopping": "144.61"
-  },
-  {
-    "shoppingId": "0562d389-5a6a-4a77-9373-26413af95b19",
-    "shopperId": "afd077fa-e40c-4901-972c-0ee217f5706d",
-    "shoppedDate": "2023-01-10",
-    "shopName": "Top Mart",
-    "totalShoppedItem": 6,
-    "totalShopping": "148.81"
-  },
-  {
-    "shoppingId": "cfdf618b-26f2-442a-bdc5-287694ffa7df",
-    "shopperId": "cb06a698-66fc-4641-96b7-f631a7221567",
-    "shoppedDate": "2021-05-03",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 5,
-    "totalShopping": "107.49"
-  },
-  {
-    "shoppingId": "6a6d37f0-9c7e-403e-be1e-ebc5dc24e3c1",
-    "shopperId": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
-    "shoppedDate": "2023-07-03",
+    "shoppingId": "04c3b9dc-116e-4776-b0ed-aa39d41d8355",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2023-07-28",
     "shopName": "Prime Bazaar",
     "totalShoppedItem": 4,
-    "totalShopping": "122.12"
+    "totalShopping": "155.82"
   },
   {
-    "shoppingId": "14289cd4-d7a1-48e0-b75d-a1ee969d9214",
-    "shopperId": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
-    "shoppedDate": "2022-01-22",
-    "shopName": "Mega Store",
-    "totalShoppedItem": 6,
-    "totalShopping": "60.75"
-  },
-  {
-    "shoppingId": "52b53d5d-44c5-4a14-b59c-8912b34245a8",
-    "shopperId": "95e4e8a6-63ff-44a4-8dc1-fcd58230e5a7",
-    "shoppedDate": "2020-03-21",
+    "shoppingId": "afe2d423-3574-4d1e-b897-963526f03b49",
+    "shopperId": "80a74820-5f19-4054-932e-86e7ad48add7",
+    "shoppedDate": "2022-12-04",
     "shopName": "Supreme Emporium",
-    "totalShoppedItem": 4,
-    "totalShopping": "72.13"
+    "totalShoppedItem": 9,
+    "totalShopping": "180.34"
   },
   {
-    "shoppingId": "6f43c64e-28b3-4b09-aa2c-1c5657ca2f4b",
-    "shopperId": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
-    "shoppedDate": "2021-07-13",
-    "shopName": "Super Outlet",
+    "shoppingId": "a16993dc-f062-496d-8ff1-92d7486a2315",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2021-11-14",
+    "shopName": "Ultra Store",
+    "totalShoppedItem": 8,
+    "totalShopping": "170.07"
+  },
+  {
+    "shoppingId": "3c106482-9a5a-470b-9c1b-a7389f554926",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2021-01-02",
+    "shopName": "Supreme Emporium",
+    "totalShoppedItem": 7,
+    "totalShopping": "147.26"
+  },
+  {
+    "shoppingId": "3e5f66b6-f75c-4d3f-8423-cea8ad3012f2",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2021-04-08",
+    "shopName": "Super Store",
     "totalShoppedItem": 3,
-    "totalShopping": "244.15"
+    "totalShopping": "80.09"
+  },
+  {
+    "shoppingId": "2ff2621d-c109-4b4e-ae08-9f766aa2977c",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2022-10-18",
+    "shopName": "Best Outlet",
+    "totalShoppedItem": 5,
+    "totalShopping": "196.83"
+  },
+  {
+    "shoppingId": "a0466498-64ad-4a42-aec5-b66bd7c319a0",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2023-02-06",
+    "shopName": "Elite Bazaar",
+    "totalShoppedItem": 4,
+    "totalShopping": "224.25"
+  },
+  {
+    "shoppingId": "952f10cf-02b1-4849-a316-d876ae3e43c3",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2023-09-27",
+    "shopName": "Ultra Shop",
+    "totalShoppedItem": 8,
+    "totalShopping": "141.06"
+  },
+  {
+    "shoppingId": "0630cf92-3c89-4746-8718-b0516121edfe",
+    "shopperId": "07142f24-7f54-4172-b033-cace21b33cf2",
+    "shoppedDate": "2022-06-13",
+    "shopName": "Best Outlet",
+    "totalShoppedItem": 9,
+    "totalShopping": "69.48"
+  },
+  {
+    "shoppingId": "1228b807-b51f-4763-8d10-672f23225cfa",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2022-05-22",
+    "shopName": "Best Bazaar",
+    "totalShoppedItem": 3,
+    "totalShopping": "192.81"
+  },
+  {
+    "shoppingId": "5274010e-05e5-47db-90f7-bc5a98eeb008",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2023-06-12",
+    "shopName": "Elite Emporium",
+    "totalShoppedItem": 8,
+    "totalShopping": "163.92"
+  },
+  {
+    "shoppingId": "88d77f3e-a29d-4cac-a9c5-d8f29bcd7815",
+    "shopperId": "80a74820-5f19-4054-932e-86e7ad48add7",
+    "shoppedDate": "2023-01-28",
+    "shopName": "Top Mart",
+    "totalShoppedItem": 6,
+    "totalShopping": "231.91"
+  },
+  {
+    "shoppingId": "3ab72950-500a-4631-89c9-e1d3a08f86d7",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2023-08-16",
+    "shopName": "Supreme Outlet",
+    "totalShoppedItem": 4,
+    "totalShopping": "146.24"
+  },
+  {
+    "shoppingId": "9b0e3824-568f-4c3d-ad01-91c9ed6ee62c",
+    "shopperId": "12b2fce7-2b64-4393-ac4f-762d61272209",
+    "shoppedDate": "2020-02-09",
+    "shopName": "Ultra Shop",
+    "totalShoppedItem": 6,
+    "totalShopping": "229.13"
+  },
+  {
+    "shoppingId": "b6c02c33-4ff3-4e3c-8456-ebacc9cef386",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2021-07-12",
+    "shopName": "Prime Emporium",
+    "totalShoppedItem": 5,
+    "totalShopping": "139.30"
+  },
+  {
+    "shoppingId": "d4bece49-4884-4aea-a624-2a75466e99ad",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2023-09-10",
+    "shopName": "Supreme Bazaar",
+    "totalShoppedItem": 7,
+    "totalShopping": "50.86"
+  },
+  {
+    "shoppingId": "f7887933-4584-4d7e-aea4-06fd7a3f074a",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2022-07-30",
+    "shopName": "Mega Shop",
+    "totalShoppedItem": 4,
+    "totalShopping": "173.58"
+  },
+  {
+    "shoppingId": "ebe2a6c2-e782-4251-b8c8-4dd1dc831d80",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2023-04-08",
+    "shopName": "Mega Outlet",
+    "totalShoppedItem": 3,
+    "totalShopping": "71.98"
+  },
+  {
+    "shoppingId": "30d0edfb-0e3e-4b2e-ba1d-c807b3f056a3",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2022-11-18",
+    "shopName": "Mega Outlet",
+    "totalShoppedItem": 9,
+    "totalShopping": "164.35"
+  },
+  {
+    "shoppingId": "1d8cd242-3078-4c22-a165-5b114ce9d57e",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2020-04-15",
+    "shopName": "Prime Outlet",
+    "totalShoppedItem": 5,
+    "totalShopping": "205.52"
+  },
+  {
+    "shoppingId": "e2144c67-0867-4ffb-b2ca-908b34f5d021",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2020-06-20",
+    "shopName": "Elite Outlet",
+    "totalShoppedItem": 3,
+    "totalShopping": "220.68"
+  },
+  {
+    "shoppingId": "3daddc16-cec7-422b-bc14-01d78c1b296d",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2022-06-25",
+    "shopName": "Top Bazaar",
+    "totalShoppedItem": 3,
+    "totalShopping": "70.64"
+  },
+  {
+    "shoppingId": "8e381277-b1a7-44a1-a5b8-88e502d1762e",
+    "shopperId": "07142f24-7f54-4172-b033-cace21b33cf2",
+    "shoppedDate": "2022-08-19",
+    "shopName": "Supreme Shop",
+    "totalShoppedItem": 9,
+    "totalShopping": "201.39"
+  },
+  {
+    "shoppingId": "cb9248b7-7285-44b9-bf3a-0617b0748dd8",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2022-04-26",
+    "shopName": "Best Outlet",
+    "totalShoppedItem": 8,
+    "totalShopping": "152.99"
+  },
+  {
+    "shoppingId": "270828cb-fe74-4b5b-80d0-0e5ae95cca22",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2020-03-26",
+    "shopName": "Super Shop",
+    "totalShoppedItem": 7,
+    "totalShopping": "79.84"
+  },
+  {
+    "shoppingId": "6a336700-2e1e-491a-afa1-89e4563379db",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2022-06-15",
+    "shopName": "Supreme Emporium",
+    "totalShoppedItem": 6,
+    "totalShopping": "181.47"
+  },
+  {
+    "shoppingId": "2dd31c77-67c2-4fce-b77b-a1de3e696f57",
+    "shopperId": "80a74820-5f19-4054-932e-86e7ad48add7",
+    "shoppedDate": "2023-04-01",
+    "shopName": "Best Emporium",
+    "totalShoppedItem": 6,
+    "totalShopping": "137.28"
+  },
+  {
+    "shoppingId": "90c1098a-4965-496e-9196-c890b1527090",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2021-04-02",
+    "shopName": "Super Mart",
+    "totalShoppedItem": 9,
+    "totalShopping": "199.62"
+  },
+  {
+    "shoppingId": "05ee1db2-05bd-40ee-b96d-a202b5d4ed5c",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2022-05-09",
+    "shopName": "Super Shop",
+    "totalShoppedItem": 7,
+    "totalShopping": "78.12"
+  },
+  {
+    "shoppingId": "a1328553-fd6e-4241-a51c-749713abd03c",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2021-06-23",
+    "shopName": "Ultra Bazaar",
+    "totalShoppedItem": 8,
+    "totalShopping": "175.58"
+  },
+  {
+    "shoppingId": "b0afc1fe-65e4-4c7f-9194-84c1ce5cf9a2",
+    "shopperId": "07142f24-7f54-4172-b033-cace21b33cf2",
+    "shoppedDate": "2023-08-29",
+    "shopName": "Ultra Emporium",
+    "totalShoppedItem": 7,
+    "totalShopping": "73.64"
+  },
+  {
+    "shoppingId": "0334f0de-7028-4d7f-9992-d83bcfa25dd1",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2020-12-08",
+    "shopName": "Supreme Emporium",
+    "totalShoppedItem": 7,
+    "totalShopping": "185.36"
+  },
+  {
+    "shoppingId": "504926a8-e0f3-4a7d-979c-744118ad60f7",
+    "shopperId": "b669d691-572c-44af-94dc-cc39c9dd4c3a",
+    "shoppedDate": "2023-04-18",
+    "shopName": "Ultra Store",
+    "totalShoppedItem": 9,
+    "totalShopping": "221.35"
+  },
+  {
+    "shoppingId": "8c19512d-3328-405d-a02a-edffb2cef7cf",
+    "shopperId": "07142f24-7f54-4172-b033-cace21b33cf2",
+    "shoppedDate": "2022-11-20",
+    "shopName": "Supreme Emporium",
+    "totalShoppedItem": 6,
+    "totalShopping": "95.24"
+  },
+  {
+    "shoppingId": "f2732df6-5832-4776-bf9a-3f82a19cbc68",
+    "shopperId": "80a74820-5f19-4054-932e-86e7ad48add7",
+    "shoppedDate": "2021-01-11",
+    "shopName": "Best Store",
+    "totalShoppedItem": 5,
+    "totalShopping": "159.45"
+  },
+  {
+    "shoppingId": "17f70418-0910-4e28-85da-4285c428150c",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2022-12-20",
+    "shopName": "Super Shop",
+    "totalShoppedItem": 6,
+    "totalShopping": "73.48"
+  },
+  {
+    "shoppingId": "02730a41-1c1c-4576-af4a-e0ef41a55ba3",
+    "shopperId": "835821a4-594d-4b61-bce6-e489ffc3cc30",
+    "shoppedDate": "2023-07-16",
+    "shopName": "Ultra Bazaar",
+    "totalShoppedItem": 5,
+    "totalShopping": "214.75"
+  },
+  {
+    "shoppingId": "4aeb3035-e131-4f9b-acec-642f2f4763e1",
+    "shopperId": "35ceab73-6ecf-42c0-b318-8ca92bcd6cf6",
+    "shoppedDate": "2021-05-28",
+    "shopName": "Mega Store",
+    "totalShoppedItem": 3,
+    "totalShopping": "52.21"
+  },
+  {
+    "shoppingId": "68e0f754-4a66-45cb-9c4b-35fd984710d3",
+    "shopperId": "80a74820-5f19-4054-932e-86e7ad48add7",
+    "shoppedDate": "2022-11-17",
+    "shopName": "Supreme Outlet",
+    "totalShoppedItem": 4,
+    "totalShopping": "224.25"
+  },
+  {
+    "shoppingId": "d25a042f-5c93-4f47-ac8e-178786b70875",
+    "shopperId": "07142f24-7f54-4172-b033-cace21b33cf2",
+    "shoppedDate": "2022-02-28",
+    "shopName": "Top Mart",
+    "totalShoppedItem": 3,
+    "totalShopping": "128.85"
+  },
+  {
+    "shoppingId": "964cc4f7-d135-41af-9e3d-6a0255ffe59c",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2021-11-06",
+    "shopName": "Best Store",
+    "totalShoppedItem": 9,
+    "totalShopping": "78.78"
+  },
+  {
+    "shoppingId": "cf05075d-0ef5-486d-839c-2f6092c290e7",
+    "shopperId": "2d16f1d1-10fe-4c87-a794-fb4b025ecd08",
+    "shoppedDate": "2022-03-14",
+    "shopName": "Supreme Outlet",
+    "totalShoppedItem": 5,
+    "totalShopping": "130.06"
+  },
+  {
+    "shoppingId": "613e9523-2c0c-4ae5-b47b-b5d6fb47f456",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2021-01-05",
+    "shopName": "Prime Shop",
+    "totalShoppedItem": 3,
+    "totalShopping": "79.43"
+  },
+  {
+    "shoppingId": "f4128b88-b594-4802-b971-0e3a1ec1e924",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2020-08-04",
+    "shopName": "Super Shop",
+    "totalShoppedItem": 9,
+    "totalShopping": "203.27"
+  },
+  {
+    "shoppingId": "c45b5780-5182-4006-9e47-cc79fc893dfb",
+    "shopperId": "824a4838-d1b5-4981-999b-c1d439857b64",
+    "shoppedDate": "2021-11-26",
+    "shopName": "Elite Store",
+    "totalShoppedItem": 3,
+    "totalShopping": "99.64"
+  },
+  {
+    "shoppingId": "56e5207d-8bdb-443f-a18e-229911375961",
+    "shopperId": "80a74820-5f19-4054-932e-86e7ad48add7",
+    "shoppedDate": "2021-12-15",
+    "shopName": "Ultra Mart",
+    "totalShoppedItem": 6,
+    "totalShopping": "223.18"
+  },
+  {
+    "shoppingId": "d7a46aab-9474-4f67-86d2-0635dcff2135",
+    "shopperId": "d4559cee-5b09-4e27-995c-aaaeefcb05e0",
+    "shoppedDate": "2023-10-20",
+    "shopName": "Mega Outlet",
+    "totalShoppedItem": 8,
+    "totalShopping": "219.54"
+  },
+  {
+    "shoppingId": "86e3ae1e-85ba-489c-8d12-8776c3ed5b08",
+    "shopperId": "12b2fce7-2b64-4393-ac4f-762d61272209",
+    "shoppedDate": "2021-01-31",
+    "shopName": "Super Shop",
+    "totalShoppedItem": 9,
+    "totalShopping": "190.80"
   }
 ]

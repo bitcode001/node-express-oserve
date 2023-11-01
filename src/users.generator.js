@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { v4: uuidv4 } = require('uuid');
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 
 function generateRandomEmail() {
     return "user" + Math.floor(Math.random() * (100 - 20) + 20) + '@' + Math.random().toString(36).substring(3, 5) + '.com';

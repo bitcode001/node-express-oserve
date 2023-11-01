@@ -1,92 +1,92 @@
 [
   {
-    "shopId": "27905fd5-0071-4b15-98a3-9d8e3cd0372f",
+    "shopId": "c7ee3b00-d4d8-45b8-97d0-a2641e4e0390",
     "shopBarCode": "JZQTVLUI",
-    "shopName": "Elite Bazaar",
-    "shopDisplayIcon": "https://picsum.photos/id/61/200/300",
-    "shopLocation": "Toronto, Canada",
-    "shopThemeColor": "#4546d6",
-    "maxItemScan": 4
+    "shopName": "Mega Outlet",
+    "shopDisplayIcon": "https://picsum.photos/id/63/200/300",
+    "shopLocation": "Dubai, UAE",
+    "shopThemeColor": "#1c096e",
+    "maxItemScan": 8
   },
   {
-    "shopId": "2b6ec49d-e38d-4b3c-978c-2831fffef503",
+    "shopId": "1a45e1d5-5a83-4155-9e84-25d27f8b8c8f",
     "shopBarCode": "HGTO0ZDU",
-    "shopName": "Super Bazaar",
-    "shopDisplayIcon": "https://picsum.photos/id/67/200/300",
-    "shopLocation": "London, UK",
-    "shopThemeColor": "#1deca5",
+    "shopName": "Ultra Outlet",
+    "shopDisplayIcon": "https://picsum.photos/id/92/200/300",
+    "shopLocation": "Berlin, Germany",
+    "shopThemeColor": "#76807a",
     "maxItemScan": 8
   },
   {
-    "shopId": "93f53e2d-cf15-4485-9abc-6121a20499b2",
+    "shopId": "97ebe5bd-556c-42c3-8ee9-209a1b2b4138",
     "shopBarCode": "ED875631",
-    "shopName": "Top Store",
-    "shopDisplayIcon": "https://picsum.photos/id/24/200/300",
-    "shopLocation": "Mumbai, India",
-    "shopThemeColor": "#c3f8b1",
+    "shopName": "Super Shop",
+    "shopDisplayIcon": "https://picsum.photos/id/38/200/300",
+    "shopLocation": "Buenos Aires, Argentina",
+    "shopThemeColor": "#ddc549",
+    "maxItemScan": 8
+  },
+  {
+    "shopId": "5c4b2518-8d72-4f90-8681-22783876f63c",
+    "shopBarCode": "PO9JPDHM",
+    "shopName": "Prime Store",
+    "shopDisplayIcon": "https://picsum.photos/id/47/200/300",
+    "shopLocation": "New York, USA",
+    "shopThemeColor": "#1c2ac2",
+    "maxItemScan": 8
+  },
+  {
+    "shopId": "878768b8-32a9-47f3-9dc7-a5668c25e6dc",
+    "shopBarCode": "6WRZ65XS",
+    "shopName": "Top Mart",
+    "shopDisplayIcon": "https://picsum.photos/id/69/200/300",
+    "shopLocation": "Mexico City, Mexico",
+    "shopThemeColor": "#30d190",
+    "maxItemScan": 3
+  },
+  {
+    "shopId": "465b15ef-3dfb-416e-a915-84863d33cc44",
+    "shopBarCode": "82WHWI86",
+    "shopName": "Elite Emporium",
+    "shopDisplayIcon": "https://picsum.photos/id/50/200/300",
+    "shopLocation": "Toronto, Canada",
+    "shopThemeColor": "#410c3a",
+    "maxItemScan": 8
+  },
+  {
+    "shopId": "97af8a84-854c-46e2-b57d-1bed916719cf",
+    "shopBarCode": "F7NQLKPZ",
+    "shopName": "Prime Mart",
+    "shopDisplayIcon": "https://picsum.photos/id/68/200/300",
+    "shopLocation": "Istanbul, Turkey",
+    "shopThemeColor": "#5a7a64",
     "maxItemScan": 4
   },
   {
-    "shopId": "ac61357f-405b-451b-bcea-55e8c1c9e52e",
-    "shopBarCode": "PO9JPDHM",
-    "shopName": "Super Emporium",
-    "shopDisplayIcon": "https://picsum.photos/id/23/200/300",
-    "shopLocation": "Toronto, Canada",
-    "shopThemeColor": "#195883",
-    "maxItemScan": 5
-  },
-  {
-    "shopId": "ddb986d7-c391-45cd-af88-e1d2703d08ef",
-    "shopBarCode": "6WRZ65XS",
-    "shopName": "Supreme Bazaar",
-    "shopDisplayIcon": "https://picsum.photos/id/81/200/300",
-    "shopLocation": "Tokyo, Japan",
-    "shopThemeColor": "#5ff32d",
-    "maxItemScan": 7
-  },
-  {
-    "shopId": "b6993796-1239-41c0-b27d-a1b32ca74f09",
-    "shopBarCode": "82WHWI86",
-    "shopName": "Super Store",
-    "shopDisplayIcon": "https://picsum.photos/id/11/200/300",
-    "shopLocation": "Moscow, Russia",
-    "shopThemeColor": "#b7c6ab",
-    "maxItemScan": 8
-  },
-  {
-    "shopId": "2c607270-4ce7-47c8-85a3-38a87b07713e",
-    "shopBarCode": "F7NQLKPZ",
-    "shopName": "Super Outlet",
-    "shopDisplayIcon": "https://picsum.photos/id/21/200/300",
-    "shopLocation": "Paris, France",
-    "shopThemeColor": "#f9af24",
-    "maxItemScan": 8
-  },
-  {
-    "shopId": "9f1be7da-8ac2-4494-99c0-37b2102ea743",
+    "shopId": "97802c98-6c33-49e2-9941-23d707d633f7",
     "shopBarCode": "DIHG5ZYZ",
-    "shopName": "Mega Store",
-    "shopDisplayIcon": "https://picsum.photos/id/19/200/300",
+    "shopName": "Mega Outlet",
+    "shopDisplayIcon": "https://picsum.photos/id/68/200/300",
     "shopLocation": "Beijing, China",
-    "shopThemeColor": "#b3b38d",
-    "maxItemScan": 5
+    "shopThemeColor": "#29a9f3",
+    "maxItemScan": 9
   },
   {
-    "shopId": "23b7d8d5-afbf-4a49-a20c-7a19f1ebb065",
+    "shopId": "01f97c99-9e6c-48c3-abb0-4139d5913250",
     "shopBarCode": "7LWXU93X",
-    "shopName": "Top Mart",
-    "shopDisplayIcon": "https://picsum.photos/id/34/200/300",
-    "shopLocation": "Bangkok, Thailand",
-    "shopThemeColor": "#2ca65a",
-    "maxItemScan": 5
+    "shopName": "Super Mart",
+    "shopDisplayIcon": "https://picsum.photos/id/14/200/300",
+    "shopLocation": "Kathmandu, Nepal",
+    "shopThemeColor": "#8da16a",
+    "maxItemScan": 4
   },
   {
-    "shopId": "3e93ffbc-5ee0-46d8-a1fa-66d327c08de7",
+    "shopId": "9afe1694-f33d-4fad-932c-09bb100f41ab",
     "shopBarCode": "WWJP2QB3",
-    "shopName": "Supreme Bazaar",
-    "shopDisplayIcon": "https://picsum.photos/id/85/200/300",
-    "shopLocation": "Berlin, Germany",
-    "shopThemeColor": "#2a529d",
-    "maxItemScan": 5
+    "shopName": "Prime Emporium",
+    "shopDisplayIcon": "https://picsum.photos/id/18/200/300",
+    "shopLocation": "Beijing, China",
+    "shopThemeColor": "#543edf",
+    "maxItemScan": 4
   }
 ]
