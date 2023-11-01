@@ -1,0 +1,82 @@
+[
+  {
+    "id": "2cd5bac5-fe2b-4bc7-8c33-c35ae3b817a8",
+    "username": "user55",
+    "email": "user55@g9.com",
+    "password": "5yugizoy",
+    "hashedPassword": "$2b$10$u4Huk1qDbIIxZjUFl3FGS.XJ2fJoXcOgXpb/Zfrvjwsbsp9W5QA2m",
+    "avatar": "https://example.com/profiles/80.png"
+  },
+  {
+    "id": "afd077fa-e40c-4901-972c-0ee217f5706d",
+    "username": "user73",
+    "email": "user73@om.com",
+    "password": "tsceb47m",
+    "hashedPassword": "$2b$10$eagXEdES62wZlu7niMtHzueSkPnE1wq6pz1/QQChL90hMgqWFwIZq",
+    "avatar": "https://example.com/profiles/99.png"
+  },
+  {
+    "id": "3649b461-4494-46c0-932e-355a74be626a",
+    "username": "user77",
+    "email": "user77@w2.com",
+    "password": "1wz2y3w2",
+    "hashedPassword": "$2b$10$nN/4RqscKHFyxrupVmE0UeLBybOYYF.CYtS9m0YhqSrC1XaYGbb5C",
+    "avatar": "https://example.com/profiles/22.png"
+  },
+  {
+    "id": "02bea597-cdc3-471e-9890-d197d0a9acc9",
+    "username": "user31",
+    "email": "user31@id.com",
+    "password": "1vjm5lz1",
+    "hashedPassword": "$2b$10$gZiqxFALs0iE3xNb9SgZ0uNuOrdbyFeWMyuWWExmeapv2sLyEQ5Ja",
+    "avatar": "https://example.com/profiles/0.png"
+  },
+  {
+    "id": "b6f35901-7e59-4bb3-a32c-0edda1e5bd69",
+    "username": "user43",
+    "email": "user43@os.com",
+    "password": "xp8kw14s",
+    "hashedPassword": "$2b$10$FVOgjQJDpvkCy/zHQ9hjMuLtNn6DfMzaqUGFCkE/F/t5blu5KghKK",
+    "avatar": "https://example.com/profiles/93.png"
+  },
+  {
+    "id": "5c640db5-2781-4740-83a1-c7ca3b6b1e31",
+    "username": "user53",
+    "email": "user53@ow.com",
+    "password": "tpa52ab2",
+    "hashedPassword": "$2b$10$WEASDnpdp25QR6yhcWLOUeT6XInsJKIWa7rdbAGKUkSc/GrZm8GBu",
+    "avatar": "https://example.com/profiles/83.png"
+  },
+  {
+    "id": "cb06a698-66fc-4641-96b7-f631a7221567",
+    "username": "user28",
+    "email": "user28@oe.com",
+    "password": "lw1b7bqd",
+    "hashedPassword": "$2b$10$PZQJ.pDZMvlXTC0SgVO6JOt/OYmFXiF/jcaJk4HhgPpx2.LsUfvJG",
+    "avatar": "https://example.com/profiles/84.png"
+  },
+  {
+    "id": "f910224e-0b30-4205-a036-b6353df39e2d",
+    "username": "user82",
+    "email": "user82@la.com",
+    "password": "4jipievm",
+    "hashedPassword": "$2b$10$JgkvyqiVi1nqNfDzfXwA4.t53TLdmwJsB8/wwoZiw5sfmPhRGbv2C",
+    "avatar": "https://example.com/profiles/11.png"
+  },
+  {
+    "id": "95e4e8a6-63ff-44a4-8dc1-fcd58230e5a7",
+    "username": "user85",
+    "email": "user85@5c.com",
+    "password": "mu4z6fg2",
+    "hashedPassword": "$2b$10$Ut0Wjc1mDVy0uVBKYopRvOsqpOocxxmsphrCzokN3.p1rG55jHHjK",
+    "avatar": "https://example.com/profiles/68.png"
+  },
+  {
+    "id": "16f851d2-1ce0-4065-af58-cee5536abd32",
+    "username": "user67",
+    "email": "user67@qv.com",
+    "password": "o9ej7thn",
+    "hashedPassword": "$2b$10$NXya2UoGVdKQwA4EbPKo8.C5RjML9E5xKOAxdfBrHOuOpGXXM0sKS",
+    "avatar": "https://example.com/profiles/76.png"
+  }
+]
