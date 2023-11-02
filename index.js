@@ -9,9 +9,9 @@ var cors = require('cors');
 const PORT = 3000;
 
 // const users = JSON.parse(fs.readFileSync('./src/users.json', 'utf8'));
-const shops = JSON.parse(fs.readFileSync('./src/shops.json', 'utf8'));
-const products = JSON.parse(fs.readFileSync('./src/shop-item-catalogue.json', 'utf8'));
-const shoppingHistories = JSON.parse(fs.readFileSync('./src/shopping-history.json', 'utf8'));
+const shops = require('./src/shops.json', 'utf8');
+const products = require('./src/shop-item-catalogue.json', 'utf8');
+const shoppingHistories = require('./src/shopping-history.json', 'utf8');
 
 // Middleware to parse JSON requests
 app.use(bodyParser.json());
