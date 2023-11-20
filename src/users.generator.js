@@ -11,7 +11,7 @@ function generateRandomPassword() {
 }
 
 function generateRandomUserImage() {
-    return `https://example.com/profiles/${Math.floor(Math.random() * 100)}.png`;
+    return `https://picsum.photos/id/${Math.floor(Math.random() * 100)}/200/200`;
 }
 
 const users = [];

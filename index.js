@@ -8,7 +8,7 @@ const app = express();
 var cors = require('cors');
 const PORT = 3000;
 
-// const users = JSON.parse(fs.readFileSync('./src/users.json', 'utf8'));
+const users = require('./src/users.json', 'utf8');
 const shops = require('./src/shops.json', 'utf8');
 const products = require('./src/shop-item-catalogue.json', 'utf8');
 const shoppingHistories = require('./src/shopping-history.json', 'utf8');
@@ -40,9 +40,11 @@ app.get('/', (req, res) => {
 app.post('/api/login', (req, res) => {
     const { email, password } = req.body;
 
-    const user = users.find(u => u.username === email);
+    if(!email || !password) return res.status(400).json({ status: 400, message: 'Invalid request body' });
+
+    const user = users.find(u => u.email === email);
     if (!user) {
-        return res.status(400).json({ error: 'Invalid email or password' });
+        return res.status(400).json({ error: 'User not found' });
     }
 
     const isValidPassword = bcrypt.compareSync(password, user.hashedPassword);
@@ -54,7 +56,7 @@ app.post('/api/login', (req, res) => {
     const token = jwt.sign({ userId: user.id, username: user.username }, SECRET_SALT_KEY, { expiresIn: '30d' });
 
     // Exclude sensitive data in the response
-    const { hashedPassword, ...userWithoutSensitiveData } = user;
+    const { hashedPassword, password: ppw, ...userWithoutSensitiveData } = user;
 
     return res.json({ ...userWithoutSensitiveData, token });
 });
