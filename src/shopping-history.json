@@ -1,802 +1,702 @@
 [
   {
-    "shoppingId": "e768e5b6-83da-4a02-8527-8bbbdcbd340e",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2020-03-24",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 3,
-    "totalShopping": "223.78"
-  },
-  {
-    "shoppingId": "3aae149e-ac4e-46f7-98dc-3d7a9764b05d",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2021-11-28",
-    "shopName": "Supreme Shop",
-    "totalShoppedItem": 9,
-    "totalShopping": "125.55"
-  },
-  {
-    "shoppingId": "be52b53d-b7f0-455a-9ea0-515e0ec35b27",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2020-10-31",
-    "shopName": "Supreme Shop",
-    "totalShoppedItem": 9,
-    "totalShopping": "81.67"
-  },
-  {
-    "shoppingId": "565299af-8f6f-4014-913f-e22589a7f9f5",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2021-10-22",
-    "shopName": "Ultra Store",
-    "totalShoppedItem": 5,
-    "totalShopping": "175.64"
-  },
-  {
-    "shoppingId": "5ad84beb-f01a-4590-8470-9e5957751dea",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2022-03-10",
-    "shopName": "Supreme Store",
-    "totalShoppedItem": 9,
-    "totalShopping": "246.16"
-  },
-  {
-    "shoppingId": "277b8b51-b91b-42dd-8c52-514b6c877091",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2023-09-02",
-    "shopName": "Ultra Emporium",
-    "totalShoppedItem": 5,
-    "totalShopping": "206.68"
-  },
-  {
-    "shoppingId": "492daee9-34eb-4952-af89-e44584aada4b",
-    "shopperId": "641aafb0-9a5f-4746-bfa2-62f9c4e49ed7",
-    "shoppedDate": "2020-10-03",
-    "shopName": "Prime Store",
-    "totalShoppedItem": 7,
-    "totalShopping": "153.34"
-  },
-  {
-    "shoppingId": "1ef1de56-082d-4e32-bdf7-269a6dab4efe",
-    "shopperId": "641aafb0-9a5f-4746-bfa2-62f9c4e49ed7",
-    "shoppedDate": "2023-07-09",
-    "shopName": "Supreme Bazaar",
-    "totalShoppedItem": 9,
-    "totalShopping": "111.97"
-  },
-  {
-    "shoppingId": "a937b026-f51e-4f71-aa16-961e7bf0b0cf",
-    "shopperId": "521e6793-2663-46b9-ab40-1bc96059ca3b",
-    "shoppedDate": "2022-06-28",
-    "shopName": "Elite Store",
-    "totalShoppedItem": 7,
-    "totalShopping": "195.25"
-  },
-  {
-    "shoppingId": "6a120ec1-4cd8-4801-998b-17fa4fbd8de0",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2021-01-30",
-    "shopName": "Best Emporium",
-    "totalShoppedItem": 5,
-    "totalShopping": "183.95"
-  },
-  {
-    "shoppingId": "d02c76c3-2049-499c-9046-fb83a96fe7e8",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2022-10-27",
-    "shopName": "Ultra Shop",
-    "totalShoppedItem": 7,
-    "totalShopping": "217.69"
-  },
-  {
-    "shoppingId": "0a7d7518-9c22-4beb-83d8-596a45391e3c",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2022-08-17",
-    "shopName": "Elite Bazaar",
-    "totalShoppedItem": 6,
-    "totalShopping": "84.47"
-  },
-  {
-    "shoppingId": "7b5cbd30-7eaf-4c09-94f8-53df8d2b0e20",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2023-10-04",
-    "shopName": "Top Outlet",
-    "totalShoppedItem": 9,
-    "totalShopping": "72.80"
+    "title": "Elite Outlet",
+    "subTitle": "13",
+    "date": "10",
+    "price": 185.93,
+    "month": "Apr"
   },
   {
-    "shoppingId": "7ba717d8-5783-48b3-a2b4-cddaf7a56fc9",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2023-08-26",
-    "shopName": "Mega Emporium",
-    "totalShoppedItem": 9,
-    "totalShopping": "68.78"
+    "title": "Super Store",
+    "subTitle": "15",
+    "date": "7",
+    "price": 235.44,
+    "month": "Jul"
   },
   {
-    "shoppingId": "93227ba1-636a-4475-9933-af3ebe2e5b8b",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2021-01-09",
-    "shopName": "Prime Bazaar",
-    "totalShoppedItem": 4,
-    "totalShopping": "158.21"
+    "title": "Mega Mart",
+    "subTitle": "7",
+    "date": "28",
+    "price": 118.04,
+    "month": "Mar"
   },
   {
-    "shoppingId": "5403cf9f-8854-4510-a0e4-a505c3e92c83",
-    "shopperId": "641aafb0-9a5f-4746-bfa2-62f9c4e49ed7",
-    "shoppedDate": "2022-07-06",
-    "shopName": "Best Shop",
-    "totalShoppedItem": 8,
-    "totalShopping": "82.47"
+    "title": "Super Store",
+    "subTitle": "9",
+    "date": "31",
+    "price": 90.86,
+    "month": "Mar"
   },
   {
-    "shoppingId": "2e065e45-f6d7-45fc-ba2b-214893451262",
-    "shopperId": "521e6793-2663-46b9-ab40-1bc96059ca3b",
-    "shoppedDate": "2022-02-11",
-    "shopName": "Super Outlet",
-    "totalShoppedItem": 8,
-    "totalShopping": "208.95"
+    "title": "Elite Mart",
+    "subTitle": "9",
+    "date": "12",
+    "price": 78.89,
+    "month": "Dec"
   },
   {
-    "shoppingId": "f8e3e573-a245-4027-9d8a-6d29b0ab4f1d",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2023-05-01",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 3,
-    "totalShopping": "85.21"
+    "title": "Mega Mart",
+    "subTitle": "13",
+    "date": "6",
+    "price": 158.19,
+    "month": "Dec"
   },
   {
-    "shoppingId": "274ddec0-2dfa-4571-9893-cc5fa31a3fb8",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2021-07-20",
-    "shopName": "Top Emporium",
-    "totalShoppedItem": 6,
-    "totalShopping": "151.67"
+    "title": "Elite Mart",
+    "subTitle": "10",
+    "date": "24",
+    "price": 167.49,
+    "month": "May"
   },
   {
-    "shoppingId": "a95862b6-86ee-4efe-86d7-db96367f44cc",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2022-03-23",
-    "shopName": "Mega Store",
-    "totalShoppedItem": 8,
-    "totalShopping": "232.67"
+    "title": "Top Outlet",
+    "subTitle": "14",
+    "date": "32",
+    "price": 217.66,
+    "month": "Aug"
   },
   {
-    "shoppingId": "cbc5e718-e91b-49b0-8d68-80fa02801382",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2020-04-17",
-    "shopName": "Elite Shop",
-    "totalShoppedItem": 3,
-    "totalShopping": "99.63"
+    "title": "Mega Mart",
+    "subTitle": "7",
+    "date": "1",
+    "price": 155.07,
+    "month": "Apr"
   },
   {
-    "shoppingId": "811bc2ea-8cf8-4614-939e-679d1b7b72ac",
-    "shopperId": "5022f972-0360-45ab-8eac-ac456e6e4012",
-    "shoppedDate": "2020-01-01",
-    "shopName": "Best Shop",
-    "totalShoppedItem": 5,
-    "totalShopping": "87.00"
+    "title": "Top Outlet",
+    "subTitle": "14",
+    "date": "12",
+    "price": 137.55,
+    "month": "Sep"
   },
   {
-    "shoppingId": "0a7e5378-800a-4c55-9a37-9cd699b46b10",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2022-05-21",
-    "shopName": "Top Emporium",
-    "totalShoppedItem": 5,
-    "totalShopping": "93.70"
+    "title": "Super Store",
+    "subTitle": "9",
+    "date": "13",
+    "price": 139.34,
+    "month": "May"
   },
   {
-    "shoppingId": "a28866ad-d6f9-431d-a6c8-39bd55f9098d",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2020-09-25",
-    "shopName": "Supreme Bazaar",
-    "totalShoppedItem": 9,
-    "totalShopping": "119.35"
+    "title": "Mega Mart",
+    "subTitle": "14",
+    "date": "12",
+    "price": 164.73,
+    "month": "Aug"
   },
   {
-    "shoppingId": "608d5905-b811-439f-ad33-b3bc14fefe42",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2020-09-20",
-    "shopName": "Ultra Store",
-    "totalShoppedItem": 9,
-    "totalShopping": "119.74"
+    "title": "Elite Mart",
+    "subTitle": "11",
+    "date": "33",
+    "price": 212.19,
+    "month": "Jul"
   },
   {
-    "shoppingId": "699dd1b1-e7e0-492b-b254-3dabe10c7254",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2020-12-11",
-    "shopName": "Top Bazaar",
-    "totalShoppedItem": 9,
-    "totalShopping": "127.14"
+    "title": "Prime Bazaar",
+    "subTitle": "4",
+    "date": "3",
+    "price": 193.79,
+    "month": "Dec"
   },
   {
-    "shoppingId": "42cdfe1d-6fc2-487c-842f-8f2f8b85ce7f",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2020-08-11",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 9,
-    "totalShopping": "130.61"
+    "title": "Prime Outlet",
+    "subTitle": "4",
+    "date": "32",
+    "price": 242.11,
+    "month": "Apr"
   },
   {
-    "shoppingId": "a9dbb9c1-84cf-4fd2-8cc6-3c61e500f06a",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2022-10-16",
-    "shopName": "Top Mart",
-    "totalShoppedItem": 9,
-    "totalShopping": "102.94"
+    "title": "Top Outlet",
+    "subTitle": "9",
+    "date": "15",
+    "price": 117.09,
+    "month": "Jan"
   },
   {
-    "shoppingId": "59bceaf4-eb69-40ad-b0ce-c74a34d98139",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2021-10-09",
-    "shopName": "Ultra Bazaar",
-    "totalShoppedItem": 6,
-    "totalShopping": "123.72"
+    "title": "Mega Mart",
+    "subTitle": "7",
+    "date": "18",
+    "price": 53.75,
+    "month": "Dec"
   },
   {
-    "shoppingId": "ee4d01e0-157a-49bc-a47f-6ae52f6fa762",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2023-02-05",
-    "shopName": "Top Store",
-    "totalShoppedItem": 6,
-    "totalShopping": "71.86"
+    "title": "Super Store",
+    "subTitle": "6",
+    "date": "21",
+    "price": 245.88,
+    "month": "Jan"
   },
   {
-    "shoppingId": "8c7b989d-955a-418b-80d5-84702b7382eb",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2021-07-30",
-    "shopName": "Prime Shop",
-    "totalShoppedItem": 7,
-    "totalShopping": "123.12"
+    "title": "Top Outlet",
+    "subTitle": "7",
+    "date": "27",
+    "price": 179.26,
+    "month": "Dec"
   },
   {
-    "shoppingId": "f42a76cf-c238-4620-9b99-93dd2ecd3fe8",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2023-01-07",
-    "shopName": "Ultra Store",
-    "totalShoppedItem": 8,
-    "totalShopping": "216.16"
+    "title": "Super Store",
+    "subTitle": "12",
+    "date": "12",
+    "price": 87.37,
+    "month": "Mar"
   },
   {
-    "shoppingId": "b8682bac-367d-4c32-9759-8f7d3b406b4b",
-    "shopperId": "641aafb0-9a5f-4746-bfa2-62f9c4e49ed7",
-    "shoppedDate": "2020-05-30",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 9,
-    "totalShopping": "242.93"
+    "title": "Top Outlet",
+    "subTitle": "12",
+    "date": "14",
+    "price": 56.46,
+    "month": "Apr"
   },
   {
-    "shoppingId": "4e1474b9-6f7c-4d39-ae13-4776c5439499",
-    "shopperId": "80641da7-93de-444b-a7ac-c17210f6a10e",
-    "shoppedDate": "2021-10-23",
-    "shopName": "Super Outlet",
-    "totalShoppedItem": 8,
-    "totalShopping": "205.64"
+    "title": "Mega Mart",
+    "subTitle": "13",
+    "date": "1",
+    "price": 222.44,
+    "month": "Nov"
   },
   {
-    "shoppingId": "54afb325-e0aa-403c-a4cc-9ac184cdadaf",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2022-11-19",
-    "shopName": "Best Mart",
-    "totalShoppedItem": 9,
-    "totalShopping": "225.33"
+    "title": "Top Outlet",
+    "subTitle": "4",
+    "date": "4",
+    "price": 239.35,
+    "month": "Oct"
   },
   {
-    "shoppingId": "bd358e70-ad5d-4701-98a7-fcb9f5e30e3c",
-    "shopperId": "5022f972-0360-45ab-8eac-ac456e6e4012",
-    "shoppedDate": "2022-12-11",
-    "shopName": "Mega Emporium",
-    "totalShoppedItem": 7,
-    "totalShopping": "133.71"
+    "title": "Top Outlet",
+    "subTitle": "10",
+    "date": "17",
+    "price": 77.14,
+    "month": "Jan"
   },
   {
-    "shoppingId": "8e684815-26a5-43c4-939b-641e7657a3e7",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2022-11-03",
-    "shopName": "Best Shop",
-    "totalShoppedItem": 6,
-    "totalShopping": "102.22"
+    "title": "Top Outlet",
+    "subTitle": "15",
+    "date": "2",
+    "price": 241.44,
+    "month": "Jun"
   },
   {
-    "shoppingId": "bbdc00d1-d0a5-46d5-9a13-c030253ade4d",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2020-02-26",
-    "shopName": "Mega Mart",
-    "totalShoppedItem": 9,
-    "totalShopping": "171.89"
+    "title": "Prime Bazaar",
+    "subTitle": "12",
+    "date": "4",
+    "price": 151.98,
+    "month": "Aug"
   },
   {
-    "shoppingId": "e9964f77-5fd1-48e3-a58c-05fa1c4ada4d",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2022-08-16",
-    "shopName": "Prime Outlet",
-    "totalShoppedItem": 7,
-    "totalShopping": "220.78"
+    "title": "Mega Mart",
+    "subTitle": "14",
+    "date": "3",
+    "price": 122.72,
+    "month": "Jan"
   },
   {
-    "shoppingId": "fbd56863-50a4-4df0-b8b3-d3dd494a2652",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2020-04-01",
-    "shopName": "Ultra Outlet",
-    "totalShoppedItem": 4,
-    "totalShopping": "74.74"
+    "title": "Elite Mart",
+    "subTitle": "13",
+    "date": "17",
+    "price": 120.8,
+    "month": "May"
   },
   {
-    "shoppingId": "a3e1cc58-e9a5-4fd5-8926-53291f510968",
-    "shopperId": "521e6793-2663-46b9-ab40-1bc96059ca3b",
-    "shoppedDate": "2022-09-20",
-    "shopName": "Top Shop",
-    "totalShoppedItem": 8,
-    "totalShopping": "141.87"
+    "title": "Elite Mart",
+    "subTitle": "14",
+    "date": "1",
+    "price": 129.99,
+    "month": "May"
   },
   {
-    "shoppingId": "64241eba-793d-467d-beb2-cf2bf4e16047",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2022-02-05",
-    "shopName": "Top Shop",
-    "totalShoppedItem": 5,
-    "totalShopping": "237.24"
+    "title": "Top Outlet",
+    "subTitle": "11",
+    "date": "27",
+    "price": 158.01,
+    "month": "Sep"
   },
   {
-    "shoppingId": "ecdcb019-8cba-4c42-a440-a78d5bc55dc8",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2021-07-20",
-    "shopName": "Super Emporium",
-    "totalShoppedItem": 3,
-    "totalShopping": "173.68"
+    "title": "Mega Mart",
+    "subTitle": "13",
+    "date": "2",
+    "price": 147.31,
+    "month": "Jul"
   },
   {
-    "shoppingId": "e247303f-91ba-4e1b-b31f-6f54ebdf85bc",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2022-05-18",
-    "shopName": "Ultra Mart",
-    "totalShoppedItem": 7,
-    "totalShopping": "181.87"
+    "title": "Top Outlet",
+    "subTitle": "13",
+    "date": "23",
+    "price": 226.86,
+    "month": "Jun"
   },
   {
-    "shoppingId": "b3fd9a8d-7073-44e2-92f8-42492fef776e",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2021-11-07",
-    "shopName": "Mega Shop",
-    "totalShoppedItem": 4,
-    "totalShopping": "235.21"
+    "title": "Prime Outlet",
+    "subTitle": "8",
+    "date": "19",
+    "price": 82.35,
+    "month": "Apr"
   },
   {
-    "shoppingId": "4b93fb3c-de04-4373-8c96-e3145972ca0f",
-    "shopperId": "521e6793-2663-46b9-ab40-1bc96059ca3b",
-    "shoppedDate": "2023-11-13",
-    "shopName": "Mega Bazaar",
-    "totalShoppedItem": 3,
-    "totalShopping": "54.64"
+    "title": "Mega Mart",
+    "subTitle": "15",
+    "date": "11",
+    "price": 233.24,
+    "month": "Nov"
   },
   {
-    "shoppingId": "22249878-4894-4e45-8ac6-09b2de63be56",
-    "shopperId": "5022f972-0360-45ab-8eac-ac456e6e4012",
-    "shoppedDate": "2020-03-02",
-    "shopName": "Ultra Shop",
-    "totalShoppedItem": 9,
-    "totalShopping": "73.26"
+    "title": "Elite Outlet",
+    "subTitle": "12",
+    "date": "3",
+    "price": 81.68,
+    "month": "Jan"
   },
   {
-    "shoppingId": "302672cb-727d-4782-aabd-59c1bd0142ee",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2020-06-18",
-    "shopName": "Prime Emporium",
-    "totalShoppedItem": 3,
-    "totalShopping": "55.07"
+    "title": "Prime Outlet",
+    "subTitle": "9",
+    "date": "24",
+    "price": 53.78,
+    "month": "Aug"
   },
   {
-    "shoppingId": "e9f923df-af1d-465f-9ed4-835dbf2fb645",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2022-11-24",
-    "shopName": "Elite Bazaar",
-    "totalShoppedItem": 8,
-    "totalShopping": "201.91"
+    "title": "Elite Outlet",
+    "subTitle": "15",
+    "date": "14",
+    "price": 84.46,
+    "month": "Apr"
   },
   {
-    "shoppingId": "71023c6e-3bab-4a5b-90ee-8c5a897c1346",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2023-10-03",
-    "shopName": "Elite Emporium",
-    "totalShoppedItem": 5,
-    "totalShopping": "116.06"
+    "title": "Mega Mart",
+    "subTitle": "14",
+    "date": "14",
+    "price": 165.14,
+    "month": "Feb"
   },
   {
-    "shoppingId": "d0458319-ce76-4678-b89b-10e784adf817",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2022-10-23",
-    "shopName": "Best Emporium",
-    "totalShoppedItem": 4,
-    "totalShopping": "245.67"
+    "title": "Top Outlet",
+    "subTitle": "11",
+    "date": "1",
+    "price": 171.77,
+    "month": "Apr"
   },
   {
-    "shoppingId": "cc70eba0-e64f-429d-afe7-28fb6bcbf34b",
-    "shopperId": "521e6793-2663-46b9-ab40-1bc96059ca3b",
-    "shoppedDate": "2020-05-31",
-    "shopName": "Supreme Emporium",
-    "totalShoppedItem": 8,
-    "totalShopping": "185.54"
+    "title": "Elite Mart",
+    "subTitle": "11",
+    "date": "32",
+    "price": 112.92,
+    "month": "Aug"
   },
   {
-    "shoppingId": "d60bd700-c680-42c9-9f63-e746fdca8a02",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2023-04-01",
-    "shopName": "Top Outlet",
-    "totalShoppedItem": 6,
-    "totalShopping": "105.92"
+    "title": "Mega Mart",
+    "subTitle": "14",
+    "date": "28",
+    "price": 167.19,
+    "month": "Sep"
   },
   {
-    "shoppingId": "32e4ffb8-eff3-4d4d-a825-7bd83d31406a",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2022-06-08",
-    "shopName": "Supreme Mart",
-    "totalShoppedItem": 3,
-    "totalShopping": "158.53"
+    "title": "Top Outlet",
+    "subTitle": "15",
+    "date": "3",
+    "price": 118.21,
+    "month": "Nov"
   },
   {
-    "shoppingId": "4a3fab63-df0b-4e75-a5c6-316e6944e283",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2020-04-29",
-    "shopName": "Elite Mart",
-    "totalShoppedItem": 6,
-    "totalShopping": "96.98"
+    "title": "Prime Outlet",
+    "subTitle": "10",
+    "date": "21",
+    "price": 172.72,
+    "month": "Dec"
   },
   {
-    "shoppingId": "22a28be7-3e0b-4a99-a966-3e82ca41b7ae",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2020-07-08",
-    "shopName": "Best Shop",
-    "totalShoppedItem": 4,
-    "totalShopping": "215.31"
+    "title": "Top Outlet",
+    "subTitle": "8",
+    "date": "29",
+    "price": 61.99,
+    "month": "Jan"
   },
   {
-    "shoppingId": "582b8a47-5bc4-423a-a085-9a2577431f37",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2020-11-28",
-    "shopName": "Super Emporium",
-    "totalShoppedItem": 5,
-    "totalShopping": "188.18"
+    "title": "Super Store",
+    "subTitle": "13",
+    "date": "32",
+    "price": 222.48,
+    "month": "Jul"
   },
   {
-    "shoppingId": "6f703835-953a-4a28-a8b5-ae2621b5fe42",
-    "shopperId": "80641da7-93de-444b-a7ac-c17210f6a10e",
-    "shoppedDate": "2020-03-01",
-    "shopName": "Best Emporium",
-    "totalShoppedItem": 4,
-    "totalShopping": "115.82"
+    "title": "Super Store",
+    "subTitle": "8",
+    "date": "23",
+    "price": 136.65,
+    "month": "Oct"
   },
   {
-    "shoppingId": "8ab2f820-1e86-4c47-a751-ee17f773c89c",
-    "shopperId": "641aafb0-9a5f-4746-bfa2-62f9c4e49ed7",
-    "shoppedDate": "2021-05-10",
-    "shopName": "Super Emporium",
-    "totalShoppedItem": 6,
-    "totalShopping": "138.18"
+    "title": "Prime Bazaar",
+    "subTitle": "4",
+    "date": "11",
+    "price": 198.63,
+    "month": "Sep"
   },
   {
-    "shoppingId": "4f4cd6d6-db58-4c01-bd7f-95a43cec1c3b",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2020-05-24",
-    "shopName": "Super Outlet",
-    "totalShoppedItem": 8,
-    "totalShopping": "192.30"
+    "title": "Top Outlet",
+    "subTitle": "6",
+    "date": "14",
+    "price": 217.47,
+    "month": "Apr"
   },
   {
-    "shoppingId": "11833cc0-bc8a-431d-a81e-05658e8a2185",
-    "shopperId": "641aafb0-9a5f-4746-bfa2-62f9c4e49ed7",
-    "shoppedDate": "2021-10-19",
-    "shopName": "Prime Store",
-    "totalShoppedItem": 6,
-    "totalShopping": "96.22"
+    "title": "Prime Bazaar",
+    "subTitle": "12",
+    "date": "15",
+    "price": 189.82,
+    "month": "Mar"
   },
   {
-    "shoppingId": "f01db22d-2b03-4ee3-a786-9b241bc2507a",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2020-08-22",
-    "shopName": "Best Shop",
-    "totalShoppedItem": 3,
-    "totalShopping": "171.63"
+    "title": "Prime Outlet",
+    "subTitle": "13",
+    "date": "17",
+    "price": 179.13,
+    "month": "Apr"
   },
   {
-    "shoppingId": "934704d4-81e7-4b97-9a6c-415520f68474",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2022-08-11",
-    "shopName": "Prime Shop",
-    "totalShoppedItem": 6,
-    "totalShopping": "239.97"
+    "title": "Super Store",
+    "subTitle": "6",
+    "date": "14",
+    "price": 210.89,
+    "month": "Feb"
   },
   {
-    "shoppingId": "30f821c5-5cb8-4636-9cba-d019a8941825",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2020-02-07",
-    "shopName": "Prime Bazaar",
-    "totalShoppedItem": 7,
-    "totalShopping": "217.52"
+    "title": "Mega Mart",
+    "subTitle": "14",
+    "date": "3",
+    "price": 140.98,
+    "month": "Apr"
   },
   {
-    "shoppingId": "bc43da83-d300-4c19-9d90-707eebb85b44",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2022-04-06",
-    "shopName": "Best Bazaar",
-    "totalShoppedItem": 9,
-    "totalShopping": "142.77"
+    "title": "Elite Mart",
+    "subTitle": "8",
+    "date": "25",
+    "price": 168.62,
+    "month": "Sep"
   },
   {
-    "shoppingId": "507b0eca-2c4a-4741-a230-a78b066ac56e",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2021-02-25",
-    "shopName": "Elite Emporium",
-    "totalShoppedItem": 6,
-    "totalShopping": "145.43"
+    "title": "Top Outlet",
+    "subTitle": "11",
+    "date": "23",
+    "price": 187.54,
+    "month": "Sep"
   },
   {
-    "shoppingId": "fafc490a-9b91-4403-a917-f1310a9d0763",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2022-12-08",
-    "shopName": "Best Store",
-    "totalShoppedItem": 8,
-    "totalShopping": "92.19"
+    "title": "Mega Mart",
+    "subTitle": "15",
+    "date": "11",
+    "price": 123.34,
+    "month": "Oct"
   },
   {
-    "shoppingId": "6e081be2-c80d-4191-9930-c413c0fb9097",
-    "shopperId": "5022f972-0360-45ab-8eac-ac456e6e4012",
-    "shoppedDate": "2022-07-03",
-    "shopName": "Mega Bazaar",
-    "totalShoppedItem": 3,
-    "totalShopping": "163.82"
+    "title": "Top Outlet",
+    "subTitle": "14",
+    "date": "17",
+    "price": 183.64,
+    "month": "Nov"
   },
   {
-    "shoppingId": "32c6c441-7601-4f3a-b000-add869e4aec1",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2023-02-21",
-    "shopName": "Supreme Bazaar",
-    "totalShoppedItem": 8,
-    "totalShopping": "63.85"
+    "title": "Prime Outlet",
+    "subTitle": "13",
+    "date": "13",
+    "price": 204.32,
+    "month": "Nov"
   },
   {
-    "shoppingId": "0013efe8-f472-41e5-a938-8545fc7957e3",
-    "shopperId": "80641da7-93de-444b-a7ac-c17210f6a10e",
-    "shoppedDate": "2021-02-12",
-    "shopName": "Super Shop",
-    "totalShoppedItem": 8,
-    "totalShopping": "124.01"
+    "title": "Super Store",
+    "subTitle": "13",
+    "date": "18",
+    "price": 111.62,
+    "month": "Aug"
   },
   {
-    "shoppingId": "150e50bc-5950-458b-b67b-f0e846e03292",
-    "shopperId": "641aafb0-9a5f-4746-bfa2-62f9c4e49ed7",
-    "shoppedDate": "2022-03-10",
-    "shopName": "Ultra Bazaar",
-    "totalShoppedItem": 5,
-    "totalShopping": "212.91"
+    "title": "Elite Outlet",
+    "subTitle": "14",
+    "date": "16",
+    "price": 56.93,
+    "month": "Apr"
   },
   {
-    "shoppingId": "e878b03d-92bc-4822-8ae2-c6d7516069cc",
-    "shopperId": "521e6793-2663-46b9-ab40-1bc96059ca3b",
-    "shoppedDate": "2020-04-24",
-    "shopName": "Prime Emporium",
-    "totalShoppedItem": 3,
-    "totalShopping": "204.23"
+    "title": "Mega Mart",
+    "subTitle": "9",
+    "date": "26",
+    "price": 138.01,
+    "month": "Jul"
   },
   {
-    "shoppingId": "a8b0d49e-68d2-48c1-8066-2cb64989a79e",
-    "shopperId": "5022f972-0360-45ab-8eac-ac456e6e4012",
-    "shoppedDate": "2020-03-31",
-    "shopName": "Elite Shop",
-    "totalShoppedItem": 7,
-    "totalShopping": "189.53"
+    "title": "Elite Mart",
+    "subTitle": "7",
+    "date": "7",
+    "price": 236.93,
+    "month": "Jun"
   },
   {
-    "shoppingId": "15bec838-9b46-4667-b7ab-346849ae7825",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2022-04-11",
-    "shopName": "Supreme Outlet",
-    "totalShoppedItem": 7,
-    "totalShopping": "82.72"
+    "title": "Super Store",
+    "subTitle": "10",
+    "date": "30",
+    "price": 169.68,
+    "month": "Apr"
   },
   {
-    "shoppingId": "63d4b9e0-eeff-488a-9700-b138a35072b9",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2022-09-30",
-    "shopName": "Top Bazaar",
-    "totalShoppedItem": 3,
-    "totalShopping": "180.09"
+    "title": "Elite Outlet",
+    "subTitle": "13",
+    "date": "16",
+    "price": 233.37,
+    "month": "Dec"
   },
   {
-    "shoppingId": "4b9808a2-e055-4323-933e-fed55493cd1e",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2022-11-01",
-    "shopName": "Top Store",
-    "totalShoppedItem": 4,
-    "totalShopping": "155.40"
+    "title": "Prime Bazaar",
+    "subTitle": "8",
+    "date": "6",
+    "price": 216.47,
+    "month": "Feb"
   },
   {
-    "shoppingId": "9b013414-60e2-4147-a2ef-0b461b46f565",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2021-09-12",
-    "shopName": "Ultra Emporium",
-    "totalShoppedItem": 4,
-    "totalShopping": "122.22"
+    "title": "Elite Outlet",
+    "subTitle": "7",
+    "date": "25",
+    "price": 55.92,
+    "month": "Sep"
   },
   {
-    "shoppingId": "38660722-e374-4fe3-a079-72c6d0d7b743",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2023-09-28",
-    "shopName": "Ultra Emporium",
-    "totalShoppedItem": 3,
-    "totalShopping": "87.70"
+    "title": "Top Outlet",
+    "subTitle": "13",
+    "date": "15",
+    "price": 52.49,
+    "month": "Mar"
   },
   {
-    "shoppingId": "faa581be-c9c4-465d-b0e7-044afd64aa1c",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2023-06-16",
-    "shopName": "Ultra Shop",
-    "totalShoppedItem": 7,
-    "totalShopping": "91.80"
+    "title": "Top Outlet",
+    "subTitle": "13",
+    "date": "29",
+    "price": 82.13,
+    "month": "Jun"
   },
   {
-    "shoppingId": "3808e378-2347-4497-895f-b384cccd063a",
-    "shopperId": "80641da7-93de-444b-a7ac-c17210f6a10e",
-    "shoppedDate": "2020-10-28",
-    "shopName": "Mega Emporium",
-    "totalShoppedItem": 6,
-    "totalShopping": "176.10"
+    "title": "Prime Outlet",
+    "subTitle": "15",
+    "date": "30",
+    "price": 235.6,
+    "month": "Dec"
   },
   {
-    "shoppingId": "a02e882c-6501-4a93-96fd-0a06b140475f",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2022-11-09",
-    "shopName": "Supreme Bazaar",
-    "totalShoppedItem": 3,
-    "totalShopping": "149.30"
+    "title": "Prime Bazaar",
+    "subTitle": "6",
+    "date": "13",
+    "price": 89.19,
+    "month": "Jun"
   },
   {
-    "shoppingId": "119bbc26-0a26-49f8-b09c-39767ea6b246",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2022-04-06",
-    "shopName": "Ultra Shop",
-    "totalShoppedItem": 8,
-    "totalShopping": "93.88"
+    "title": "Top Outlet",
+    "subTitle": "15",
+    "date": "15",
+    "price": 212.14,
+    "month": "Nov"
   },
   {
-    "shoppingId": "8592f341-a280-4dd6-905f-feb3045045d9",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2020-08-24",
-    "shopName": "Super Mart",
-    "totalShoppedItem": 6,
-    "totalShopping": "127.37"
+    "title": "Elite Outlet",
+    "subTitle": "4",
+    "date": "14",
+    "price": 182.92,
+    "month": "Oct"
   },
   {
-    "shoppingId": "9f012547-d5c4-474a-bc90-c09eb10678df",
-    "shopperId": "6c6dbd3f-e1f3-49df-a65e-858e7a604ed0",
-    "shoppedDate": "2023-10-23",
-    "shopName": "Mega Store",
-    "totalShoppedItem": 9,
-    "totalShopping": "50.31"
+    "title": "Elite Mart",
+    "subTitle": "13",
+    "date": "18",
+    "price": 163.53,
+    "month": "Apr"
   },
   {
-    "shoppingId": "09c59713-9891-494f-a47d-ebb24a1ca079",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2022-07-13",
-    "shopName": "Best Bazaar",
-    "totalShoppedItem": 5,
-    "totalShopping": "88.79"
+    "title": "Elite Outlet",
+    "subTitle": "7",
+    "date": "6",
+    "price": 237.83,
+    "month": "Apr"
   },
   {
-    "shoppingId": "9da91e9d-e030-442f-a003-955b0d2d44a6",
-    "shopperId": "5022f972-0360-45ab-8eac-ac456e6e4012",
-    "shoppedDate": "2020-12-16",
-    "shopName": "Top Outlet",
-    "totalShoppedItem": 6,
-    "totalShopping": "207.19"
+    "title": "Top Outlet",
+    "subTitle": "6",
+    "date": "26",
+    "price": 142.48,
+    "month": "Apr"
   },
   {
-    "shoppingId": "16edfb98-80cb-4c5e-a54b-25af50ac00dc",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2021-12-21",
-    "shopName": "Super Outlet",
-    "totalShoppedItem": 9,
-    "totalShopping": "205.75"
+    "title": "Prime Outlet",
+    "subTitle": "11",
+    "date": "33",
+    "price": 231.72,
+    "month": "Jun"
   },
   {
-    "shoppingId": "50aefcc9-cfdc-461f-bbb4-0ec32756416f",
-    "shopperId": "59dac6f4-dfed-43bb-a156-1e5b4d3fe890",
-    "shoppedDate": "2020-10-23",
-    "shopName": "Elite Shop",
-    "totalShoppedItem": 9,
-    "totalShopping": "211.57"
-  },
-  {
-    "shoppingId": "bc6ef938-b875-4b65-aa5b-a437a35d9d7c",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2022-02-20",
-    "shopName": "Prime Store",
-    "totalShoppedItem": 9,
-    "totalShopping": "187.99"
-  },
-  {
-    "shoppingId": "0517deb9-90e1-4906-884b-76df101726a1",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2022-08-19",
-    "shopName": "Elite Outlet",
-    "totalShoppedItem": 9,
-    "totalShopping": "111.78"
-  },
-  {
-    "shoppingId": "14ca47cd-ba62-43a6-b023-b8b94de80e66",
-    "shopperId": "9642fe76-b39e-4219-8793-0489ff996ccb",
-    "shoppedDate": "2021-10-28",
-    "shopName": "Super Mart",
-    "totalShoppedItem": 5,
-    "totalShopping": "82.43"
-  },
-  {
-    "shoppingId": "145dde6d-a93a-4456-b751-13a376ea9cc0",
-    "shopperId": "641aafb0-9a5f-4746-bfa2-62f9c4e49ed7",
-    "shoppedDate": "2023-04-12",
-    "shopName": "Top Store",
-    "totalShoppedItem": 8,
-    "totalShopping": "79.51"
-  },
-  {
-    "shoppingId": "1aa53c27-9ce9-4366-b274-e92ed3693e04",
-    "shopperId": "940acc1b-1466-4281-99ce-9a3d5f0118b8",
-    "shoppedDate": "2023-06-19",
-    "shopName": "Top Mart",
-    "totalShoppedItem": 9,
-    "totalShopping": "165.49"
-  },
-  {
-    "shoppingId": "f81ca264-d437-4c35-8a52-9020fe2826fc",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2022-12-01",
-    "shopName": "Best Bazaar",
-    "totalShoppedItem": 6,
-    "totalShopping": "223.24"
-  },
-  {
-    "shoppingId": "8cc077a6-d3c4-4473-a714-564cb2f96009",
-    "shopperId": "641aafb0-9a5f-4746-bfa2-62f9c4e49ed7",
-    "shoppedDate": "2020-11-10",
-    "shopName": "Ultra Bazaar",
-    "totalShoppedItem": 3,
-    "totalShopping": "118.74"
-  },
-  {
-    "shoppingId": "0ffba8c1-d406-442b-9d74-ec5eb7b1fef1",
-    "shopperId": "26c8a250-5402-448e-a42b-227dce91af75",
-    "shoppedDate": "2022-06-24",
-    "shopName": "Prime Shop",
-    "totalShoppedItem": 4,
-    "totalShopping": "237.01"
-  },
-  {
-    "shoppingId": "5311ea07-cb50-46ae-bab1-f2bea237d2ca",
-    "shopperId": "80641da7-93de-444b-a7ac-c17210f6a10e",
-    "shoppedDate": "2023-02-25",
-    "shopName": "Super Bazaar",
-    "totalShoppedItem": 8,
-    "totalShopping": "158.17"
-  },
-  {
-    "shoppingId": "e227bc53-149c-402d-9417-2e9854f09d76",
-    "shopperId": "80641da7-93de-444b-a7ac-c17210f6a10e",
-    "shoppedDate": "2021-12-13",
-    "shopName": "Best Shop",
-    "totalShoppedItem": 8,
-    "totalShopping": "188.05"
-  },
-  {
-    "shoppingId": "0a06efbd-04ce-4e08-b80f-4dc162e4ee49",
-    "shopperId": "868b8e31-1390-49b8-94b1-b5293c4b17d8",
-    "shoppedDate": "2023-02-25",
-    "shopName": "Mega Bazaar",
-    "totalShoppedItem": 8,
-    "totalShopping": "63.26"
-  },
-  {
-    "shoppingId": "97fbf88f-a703-4ff7-b41f-598079f439d2",
-    "shopperId": "5022f972-0360-45ab-8eac-ac456e6e4012",
-    "shoppedDate": "2020-10-19",
-    "shopName": "Ultra Store",
-    "totalShoppedItem": 9,
-    "totalShopping": "92.91"
+    "title": "Top Outlet",
+    "subTitle": "4",
+    "date": "10",
+    "price": 61.21,
+    "month": "Nov"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "7",
+    "date": "28",
+    "price": 76.75,
+    "month": "Jul"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "12",
+    "date": "6",
+    "price": 233.98,
+    "month": "Jan"
+  },
+  {
+    "title": "Elite Outlet",
+    "subTitle": "6",
+    "date": "31",
+    "price": 182.5,
+    "month": "Nov"
+  },
+  {
+    "title": "Super Store",
+    "subTitle": "8",
+    "date": "12",
+    "price": 82.33,
+    "month": "Jun"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "10",
+    "date": "20",
+    "price": 225.74,
+    "month": "Mar"
+  },
+  {
+    "title": "Super Store",
+    "subTitle": "7",
+    "date": "25",
+    "price": 126.06,
+    "month": "May"
+  },
+  {
+    "title": "Elite Mart",
+    "subTitle": "6",
+    "date": "11",
+    "price": 109.65,
+    "month": "Jul"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "12",
+    "date": "31",
+    "price": 92.19,
+    "month": "Nov"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "9",
+    "date": "2",
+    "price": 225.79,
+    "month": "Sep"
+  },
+  {
+    "title": "Prime Bazaar",
+    "subTitle": "9",
+    "date": "4",
+    "price": 68.72,
+    "month": "Apr"
+  },
+  {
+    "title": "Prime Outlet",
+    "subTitle": "7",
+    "date": "24",
+    "price": 167.49,
+    "month": "Nov"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "14",
+    "date": "4",
+    "price": 130.4,
+    "month": "Oct"
+  },
+  {
+    "title": "Super Store",
+    "subTitle": "5",
+    "date": "18",
+    "price": 160.68,
+    "month": "May"
+  },
+  {
+    "title": "Super Store",
+    "subTitle": "5",
+    "date": "2",
+    "price": 191.62,
+    "month": "Nov"
+  },
+  {
+    "title": "Super Store",
+    "subTitle": "11",
+    "date": "28",
+    "price": 211,
+    "month": "Oct"
+  },
+  {
+    "title": "Top Outlet",
+    "subTitle": "4",
+    "date": "21",
+    "price": 204.72,
+    "month": "Feb"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "12",
+    "date": "10",
+    "price": 169.19,
+    "month": "Jul"
+  },
+  {
+    "title": "Prime Outlet",
+    "subTitle": "11",
+    "date": "6",
+    "price": 57.03,
+    "month": "Nov"
+  },
+  {
+    "title": "Prime Bazaar",
+    "subTitle": "13",
+    "date": "4",
+    "price": 95.38,
+    "month": "May"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "12",
+    "date": "29",
+    "price": 51.49,
+    "month": "Jun"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "8",
+    "date": "29",
+    "price": 201.28,
+    "month": "Dec"
+  },
+  {
+    "title": "Super Store",
+    "subTitle": "9",
+    "date": "26",
+    "price": 228.65,
+    "month": "Jan"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "7",
+    "date": "3",
+    "price": 60.79,
+    "month": "Aug"
+  },
+  {
+    "title": "Mega Mart",
+    "subTitle": "10",
+    "date": "24",
+    "price": 114.15,
+    "month": "Mar"
   }
 ]

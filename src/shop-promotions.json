@@ -1,0 +1,82 @@
+[
+  {
+    "id": "561cc6a3-85f1-494e-b24f-2cb8f0465993",
+    "name": "Winter Deals",
+    "description": "Embrace the chill with our cozy Winter Deals! Warm up to exclusive discounts on winter essentials and seasonal delights.",
+    "discountAmount": 13,
+    "discountPercent": 5,
+    "promotionType": "percentage-discount"
+  },
+  {
+    "id": "a97a150f-55f3-4a84-a961-9a6d223ade99",
+    "name": "Summer Deals",
+    "description": "Make your summer brighter with our hot Summer Deals! From beach essentials to outdoor gear, find everything you need at unbeatable prices.",
+    "discountAmount": 8,
+    "discountPercent": 3,
+    "promotionType": "cash-discount"
+  },
+  {
+    "id": "1b731cbb-0c59-44f8-8035-cd31f3ac43bd",
+    "name": "Winter Deals",
+    "description": "Experience the magic of winter with our frosty Winter Deals! Enjoy savings on cold-weather favorites and make the season merry and bright.",
+    "discountAmount": 10,
+    "discountPercent": 6,
+    "promotionType": "percentage-discount"
+  },
+  {
+    "id": "9b605a8a-4207-4b58-88c0-d2070981dc35",
+    "name": "New onboarding",
+    "description": "Join our community and experience a seamless onboarding process with extra perks and benefits!",
+    "discountAmount": 13,
+    "discountPercent": 7,
+    "promotionType": "cash-discount"
+  },
+  {
+    "id": "03d97a21-9ac5-422a-915a-fca3659b9c48",
+    "name": "Black Friday",
+    "description": "Get ready for the ultimate shopping spree! Dive into the best Black Friday deals and savings.",
+    "discountAmount": 11,
+    "discountPercent": 9,
+    "promotionType": "cash-discount"
+  },
+  {
+    "id": "0703e2c0-6221-4ea6-a954-617444920d54",
+    "name": "Christmas",
+    "description": "Celebrate the magic of Christmas with exclusive promotions and heartwarming savings.",
+    "discountAmount": 14,
+    "discountPercent": 7,
+    "promotionType": "percentage-discount"
+  },
+  {
+    "id": "c2e43a84-f5c3-4060-afd0-5339dac84d92",
+    "name": "Black Friday",
+    "description": "Don't miss out on the biggest shopping day of the year! Unbeatable discounts and deals await you on Black Friday.",
+    "discountAmount": 11,
+    "discountPercent": 3,
+    "promotionType": "percentage-discount"
+  },
+  {
+    "id": "22913b56-51c6-46c6-94b3-cc9b55000d70",
+    "name": "Winter Deals",
+    "description": "Let it snow with our Winter Deals! Find the perfect gifts and winter essentials at prices that will warm your heart.",
+    "discountAmount": 9,
+    "discountPercent": 9,
+    "promotionType": "cash-discount"
+  },
+  {
+    "id": "14a8c93a-093c-4846-9b64-ee0f0f8f0662",
+    "name": "New onboarding",
+    "description": "Embark on your journey with us and enjoy special privileges for new members.",
+    "discountAmount": 12,
+    "discountPercent": 8,
+    "promotionType": "percentage-discount"
+  },
+  {
+    "id": "f1e3b46b-33d2-4eeb-ae44-6da3325ff82f",
+    "name": "Black Friday",
+    "description": "Don't miss out on the biggest shopping day of the year! Unbeatable discounts and deals await you on Black Friday.",
+    "discountAmount": 7,
+    "discountPercent": 9,
+    "promotionType": "percentage-discount"
+  }
+]
